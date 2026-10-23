@@ -1,0 +1,30 @@
+﻿city,country,city_satisfaction,green_space_satisfaction,quadrant,urban_green_space,total_green_infrastructure,urban_tree_cover,city_strongly_agree,city_somewhat_agree,green_very_satisfied,green_rather_satisfied
+Vienna,Austria,94,90,Greener & More Satisfied,10,44,34,74,20,58,31
+Brussels,Belgium,87,84,Greener & Less Satisfied,12,42,37,38,50,32,52
+Sofia,Bulgaria,82,64,Greener & Less Satisfied,4,46,37,34,48,13,51
+Nicosia,Cyprus,85,54,Less Green & Less Satisfied,2,21,4,39,46,20,34
+Prague,Czechia,92,79,Less Green & More Satisfied,9,36,29,40,52,30,48
+Berlin,Germany,90,87,Greener & More Satisfied,9,51,44,56,35,37,50
+Copenhagen,Denmark,98,90,Less Green & More Satisfied,10,30,16,78,20,51,39
+Tallinn,Estonia,92,85,Greener & More Satisfied,10,50,43,55,37,36,49
+Athens,Greece,64,29,Less Green & Less Satisfied,15,17,11,15,49,7,22
+Madrid,Spain,84,67,Greener & Less Satisfied,9,53,39,41,43,25,43
+Paris,France,85,84,Less Green & Less Satisfied,11,26,20,40,45,30,53
+Zagreb,Croatia,90,81,Greener & More Satisfied,2,74,46,60,29,34,47
+Budapest,Hungary,86,69,Less Green & Less Satisfied,7,36,26,42,44,19,50
+Dublin,Ireland,94,86,Less Green & More Satisfied,15,35,20,67,26,52,34
+Reykjavík,Iceland,94,75,Less Green & More Satisfied,0,27,5,65,29,26,49
+Rome,Italy,74,59,Less Green & Less Satisfied,3,34,24,24,50,16,43
+Vilnius,Lithuania,94,85,Greener & More Satisfied,8,57,47,62,32,32,52
+Luxembourg,Luxembourg,94,88,Greener & More Satisfied,4,42,37,70,24,51,37
+Riga,Latvia,80,85,Greener & Less Satisfied,6,46,43,30,50,34,51
+Valletta,Malta,81,43,Less Green & Less Satisfied,2,17,7,44,37,19,24
+Amsterdam,Netherlands,94,88,Less Green & More Satisfied,5,31,14,69,25,42,46
+Oslo,Norway,97,93,Greener & More Satisfied,3,77,72,83,14,47,46
+Warsaw,Poland,92,83,Greener & More Satisfied,6,47,40,47,45,36,48
+Lisbon,Portugal,88,67,Greener & Less Satisfied,2,48,17,24,64,12,55
+Bucharest,Romania,81,61,Less Green & Less Satisfied,6,26,22,32,49,20,42
+Stockholm,Sweden,98,90,Greener & More Satisfied,19,48,34,81,16,50,41
+Ljubljana,Slovenia,94,87,Greener & More Satisfied,1,67,50,68,25,49,38
+Bratislava,Slovakia,92,54,Less Green & More Satisfied,2,41,36,45,47,14,40
+Ankara,Türkiye,90,76,Less Green & More Satisfied,5,35,27,64,27,43,33

@@ -1,0 +1,583 @@
+﻿id,survey,city,year,percentage,country
+PS3260V,The quality of the air in the city: very satisfied,Vienna,2012,28.0,Austria
+PS3260V,The quality of the air in the city: very satisfied,Vienna,2015,38.0,Austria
+PS3260V,The quality of the air in the city: very satisfied,Vienna,2019,36.5,Austria
+PS3260V,The quality of the air in the city: very satisfied,Vienna,2023,34.1,Austria
+PS3260V,The quality of the air in the city: very satisfied,Brussels,2012,8.0,Belgium
+PS3260V,The quality of the air in the city: very satisfied,Brussels,2015,6.0,Belgium
+PS3260V,The quality of the air in the city: very satisfied,Brussels,2019,7.3,Belgium
+PS3260V,The quality of the air in the city: very satisfied,Brussels,2023,6.8,Belgium
+PS3260V,The quality of the air in the city: very satisfied,Sofia,2012,5.0,Bulgaria
+PS3260V,The quality of the air in the city: very satisfied,Sofia,2015,4.0,Bulgaria
+PS3260V,The quality of the air in the city: very satisfied,Sofia,2019,3.6,Bulgaria
+PS3260V,The quality of the air in the city: very satisfied,Sofia,2023,8.5,Bulgaria
+PS3260V,The quality of the air in the city: very satisfied,Nicosia,2012,24.0,Cyprus
+PS3260V,The quality of the air in the city: very satisfied,Nicosia,2015,18.0,Cyprus
+PS3260V,The quality of the air in the city: very satisfied,Nicosia,2019,17.4,Cyprus
+PS3260V,The quality of the air in the city: very satisfied,Nicosia,2023,23.6,Cyprus
+PS3260V,The quality of the air in the city: very satisfied,Prague,2012,5.0,Czechia
+PS3260V,The quality of the air in the city: very satisfied,Prague,2015,10.0,Czechia
+PS3260V,The quality of the air in the city: very satisfied,Prague,2019,12.6,Czechia
+PS3260V,The quality of the air in the city: very satisfied,Prague,2023,13.2,Czechia
+PS3260V,The quality of the air in the city: very satisfied,Berlin,2012,14.0,Germany
+PS3260V,The quality of the air in the city: very satisfied,Berlin,2015,15.0,Germany
+PS3260V,The quality of the air in the city: very satisfied,Berlin,2019,13.8,Germany
+PS3260V,The quality of the air in the city: very satisfied,Berlin,2023,17.2,Germany
+PS3260V,The quality of the air in the city: very satisfied,Copenhagen,2012,16.0,Denmark
+PS3260V,The quality of the air in the city: very satisfied,Copenhagen,2015,23.0,Denmark
+PS3260V,The quality of the air in the city: very satisfied,Copenhagen,2019,21.2,Denmark
+PS3260V,The quality of the air in the city: very satisfied,Copenhagen,2023,19.6,Denmark
+PS3260V,The quality of the air in the city: very satisfied,Tallinn,2012,13.0,Estonia
+PS3260V,The quality of the air in the city: very satisfied,Tallinn,2015,21.0,Estonia
+PS3260V,The quality of the air in the city: very satisfied,Tallinn,2019,24.0,Estonia
+PS3260V,The quality of the air in the city: very satisfied,Tallinn,2023,21.8,Estonia
+PS3260V,The quality of the air in the city: very satisfied,Athens,2012,8.0,Greece
+PS3260V,The quality of the air in the city: very satisfied,Athens,2015,8.0,Greece
+PS3260V,The quality of the air in the city: very satisfied,Athens,2019,4.5,Greece
+PS3260V,The quality of the air in the city: very satisfied,Athens,2023,7.2,Greece
+PS3260V,The quality of the air in the city: very satisfied,Madrid,2012,8.0,Spain
+PS3260V,The quality of the air in the city: very satisfied,Madrid,2015,8.0,Spain
+PS3260V,The quality of the air in the city: very satisfied,Madrid,2019,8.6,Spain
+PS3260V,The quality of the air in the city: very satisfied,Madrid,2023,10.8,Spain
+PS3260V,The quality of the air in the city: very satisfied,Helsinki,2012,17.0,
+PS3260V,The quality of the air in the city: very satisfied,Helsinki,2015,24.0,
+PS3260V,The quality of the air in the city: very satisfied,Helsinki,2023,27.1,
+PS3260V,The quality of the air in the city: very satisfied,Paris,2012,4.0,France
+PS3260V,The quality of the air in the city: very satisfied,Paris,2015,5.0,France
+PS3260V,The quality of the air in the city: very satisfied,Paris,2019,5.7,France
+PS3260V,The quality of the air in the city: very satisfied,Paris,2023,7.7,France
+PS3260V,The quality of the air in the city: very satisfied,Zagreb,2012,16.0,Croatia
+PS3260V,The quality of the air in the city: very satisfied,Zagreb,2015,20.0,Croatia
+PS3260V,The quality of the air in the city: very satisfied,Zagreb,2019,21.4,Croatia
+PS3260V,The quality of the air in the city: very satisfied,Zagreb,2023,16.2,Croatia
+PS3260V,The quality of the air in the city: very satisfied,Budapest,2012,6.0,Hungary
+PS3260V,The quality of the air in the city: very satisfied,Budapest,2015,8.0,Hungary
+PS3260V,The quality of the air in the city: very satisfied,Budapest,2019,11.4,Hungary
+PS3260V,The quality of the air in the city: very satisfied,Budapest,2023,10.1,Hungary
+PS3260V,The quality of the air in the city: very satisfied,Dublin,2012,29.0,Ireland
+PS3260V,The quality of the air in the city: very satisfied,Dublin,2015,33.0,Ireland
+PS3260V,The quality of the air in the city: very satisfied,Dublin,2019,33.5,Ireland
+PS3260V,The quality of the air in the city: very satisfied,Dublin,2023,30.9,Ireland
+PS3260V,The quality of the air in the city: very satisfied,Reykjavík,2012,38.0,Iceland
+PS3260V,The quality of the air in the city: very satisfied,Reykjavík,2015,38.0,Iceland
+PS3260V,The quality of the air in the city: very satisfied,Reykjavík,2019,35.4,Iceland
+PS3260V,The quality of the air in the city: very satisfied,Reykjavík,2023,36.5,Iceland
+PS3260V,The quality of the air in the city: very satisfied,Rome,2012,5.0,Italy
+PS3260V,The quality of the air in the city: very satisfied,Rome,2015,4.0,Italy
+PS3260V,The quality of the air in the city: very satisfied,Rome,2019,5.4,Italy
+PS3260V,The quality of the air in the city: very satisfied,Rome,2023,2.6,Italy
+PS3260V,The quality of the air in the city: very satisfied,Vilnius,2012,13.0,Lithuania
+PS3260V,The quality of the air in the city: very satisfied,Vilnius,2015,19.0,Lithuania
+PS3260V,The quality of the air in the city: very satisfied,Vilnius,2019,18.9,Lithuania
+PS3260V,The quality of the air in the city: very satisfied,Vilnius,2023,18.4,Lithuania
+PS3260V,The quality of the air in the city: very satisfied,Luxembourg,2012,29.0,Luxembourg
+PS3260V,The quality of the air in the city: very satisfied,Luxembourg,2015,27.0,Luxembourg
+PS3260V,The quality of the air in the city: very satisfied,Luxembourg,2019,25.5,Luxembourg
+PS3260V,The quality of the air in the city: very satisfied,Luxembourg,2023,26.6,Luxembourg
+PS3260V,The quality of the air in the city: very satisfied,Riga,2012,14.0,Latvia
+PS3260V,The quality of the air in the city: very satisfied,Riga,2015,14.0,Latvia
+PS3260V,The quality of the air in the city: very satisfied,Riga,2019,17.8,Latvia
+PS3260V,The quality of the air in the city: very satisfied,Riga,2023,15.1,Latvia
+PS3260V,The quality of the air in the city: very satisfied,Valletta,2012,14.0,Malta
+PS3260V,The quality of the air in the city: very satisfied,Valletta,2015,13.0,Malta
+PS3260V,The quality of the air in the city: very satisfied,Valletta,2019,12.0,Malta
+PS3260V,The quality of the air in the city: very satisfied,Valletta,2023,12.0,Malta
+PS3260V,The quality of the air in the city: very satisfied,Amsterdam,2019,14.3,Netherlands
+PS3260V,The quality of the air in the city: very satisfied,Amsterdam,2023,13.9,Netherlands
+PS3260V,The quality of the air in the city: very satisfied,Oslo,2012,12.0,Norway
+PS3260V,The quality of the air in the city: very satisfied,Oslo,2015,16.0,Norway
+PS3260V,The quality of the air in the city: very satisfied,Oslo,2019,20.8,Norway
+PS3260V,The quality of the air in the city: very satisfied,Oslo,2023,21.8,Norway
+PS3260V,The quality of the air in the city: very satisfied,Warsaw,2012,8.0,Poland
+PS3260V,The quality of the air in the city: very satisfied,Warsaw,2015,6.0,Poland
+PS3260V,The quality of the air in the city: very satisfied,Warsaw,2019,6.1,Poland
+PS3260V,The quality of the air in the city: very satisfied,Warsaw,2023,6.9,Poland
+PS3260V,The quality of the air in the city: very satisfied,Lisbon,2012,9.0,Portugal
+PS3260V,The quality of the air in the city: very satisfied,Lisbon,2015,11.0,Portugal
+PS3260V,The quality of the air in the city: very satisfied,Lisbon,2019,7.1,Portugal
+PS3260V,The quality of the air in the city: very satisfied,Lisbon,2023,6.3,Portugal
+PS3260V,The quality of the air in the city: very satisfied,Bucharest,2012,2.0,Romania
+PS3260V,The quality of the air in the city: very satisfied,Bucharest,2015,4.0,Romania
+PS3260V,The quality of the air in the city: very satisfied,Bucharest,2019,2.9,Romania
+PS3260V,The quality of the air in the city: very satisfied,Bucharest,2023,5.4,Romania
+PS3260V,The quality of the air in the city: very satisfied,Stockholm,2012,19.0,Sweden
+PS3260V,The quality of the air in the city: very satisfied,Stockholm,2015,26.0,Sweden
+PS3260V,The quality of the air in the city: very satisfied,Stockholm,2019,26.3,Sweden
+PS3260V,The quality of the air in the city: very satisfied,Stockholm,2023,21.1,Sweden
+PS3260V,The quality of the air in the city: very satisfied,Ljubljana,2012,14.0,Slovenia
+PS3260V,The quality of the air in the city: very satisfied,Ljubljana,2015,25.0,Slovenia
+PS3260V,The quality of the air in the city: very satisfied,Ljubljana,2019,24.9,Slovenia
+PS3260V,The quality of the air in the city: very satisfied,Ljubljana,2023,18.9,Slovenia
+PS3260V,The quality of the air in the city: very satisfied,Bratislava,2012,6.0,Slovakia
+PS3260V,The quality of the air in the city: very satisfied,Bratislava,2015,6.0,Slovakia
+PS3260V,The quality of the air in the city: very satisfied,Bratislava,2019,10.9,Slovakia
+PS3260V,The quality of the air in the city: very satisfied,Bratislava,2023,7.7,Slovakia
+PS3260V,The quality of the air in the city: very satisfied,Ankara,2012,21.0,Türkiye
+PS3260V,The quality of the air in the city: very satisfied,Ankara,2015,28.0,Türkiye
+PS3260V,The quality of the air in the city: very satisfied,Ankara,2019,34.7,Türkiye
+PS3260V,The quality of the air in the city: very satisfied,Ankara,2023,26.0,Türkiye
+PS3261V,The quality of the air in the city: rather satisfied,Vienna,2012,50.0,Austria
+PS3261V,The quality of the air in the city: rather satisfied,Vienna,2015,50.0,Austria
+PS3261V,The quality of the air in the city: rather satisfied,Vienna,2019,47.8,Austria
+PS3261V,The quality of the air in the city: rather satisfied,Vienna,2023,42.8,Austria
+PS3261V,The quality of the air in the city: rather satisfied,Brussels,2012,43.0,Belgium
+PS3261V,The quality of the air in the city: rather satisfied,Brussels,2015,45.0,Belgium
+PS3261V,The quality of the air in the city: rather satisfied,Brussels,2019,43.1,Belgium
+PS3261V,The quality of the air in the city: rather satisfied,Brussels,2023,44.1,Belgium
+PS3261V,The quality of the air in the city: rather satisfied,Sofia,2012,21.0,Bulgaria
+PS3261V,The quality of the air in the city: rather satisfied,Sofia,2015,24.0,Bulgaria
+PS3261V,The quality of the air in the city: rather satisfied,Sofia,2019,22.0,Bulgaria
+PS3261V,The quality of the air in the city: rather satisfied,Sofia,2023,31.4,Bulgaria
+PS3261V,The quality of the air in the city: rather satisfied,Nicosia,2012,42.0,Cyprus
+PS3261V,The quality of the air in the city: rather satisfied,Nicosia,2015,47.0,Cyprus
+PS3261V,The quality of the air in the city: rather satisfied,Nicosia,2019,45.0,Cyprus
+PS3261V,The quality of the air in the city: rather satisfied,Nicosia,2023,46.4,Cyprus
+PS3261V,The quality of the air in the city: rather satisfied,Prague,2012,34.0,Czechia
+PS3261V,The quality of the air in the city: rather satisfied,Prague,2015,49.0,Czechia
+PS3261V,The quality of the air in the city: rather satisfied,Prague,2019,47.2,Czechia
+PS3261V,The quality of the air in the city: rather satisfied,Prague,2023,46.5,Czechia
+PS3261V,The quality of the air in the city: rather satisfied,Berlin,2012,52.0,Germany
+PS3261V,The quality of the air in the city: rather satisfied,Berlin,2015,56.0,Germany
+PS3261V,The quality of the air in the city: rather satisfied,Berlin,2019,56.4,Germany
+PS3261V,The quality of the air in the city: rather satisfied,Berlin,2023,53.0,Germany
+PS3261V,The quality of the air in the city: rather satisfied,Copenhagen,2012,45.0,Denmark
+PS3261V,The quality of the air in the city: rather satisfied,Copenhagen,2015,45.0,Denmark
+PS3261V,The quality of the air in the city: rather satisfied,Copenhagen,2019,44.9,Denmark
+PS3261V,The quality of the air in the city: rather satisfied,Copenhagen,2023,44.4,Denmark
+PS3261V,The quality of the air in the city: rather satisfied,Tallinn,2012,48.0,Estonia
+PS3261V,The quality of the air in the city: rather satisfied,Tallinn,2015,54.0,Estonia
+PS3261V,The quality of the air in the city: rather satisfied,Tallinn,2019,52.8,Estonia
+PS3261V,The quality of the air in the city: rather satisfied,Tallinn,2023,51.1,Estonia
+PS3261V,The quality of the air in the city: rather satisfied,Athens,2012,24.0,Greece
+PS3261V,The quality of the air in the city: rather satisfied,Athens,2015,31.0,Greece
+PS3261V,The quality of the air in the city: rather satisfied,Athens,2019,23.4,Greece
+PS3261V,The quality of the air in the city: rather satisfied,Athens,2023,20.3,Greece
+PS3261V,The quality of the air in the city: rather satisfied,Madrid,2012,17.0,Spain
+PS3261V,The quality of the air in the city: rather satisfied,Madrid,2015,23.0,Spain
+PS3261V,The quality of the air in the city: rather satisfied,Madrid,2019,23.3,Spain
+PS3261V,The quality of the air in the city: rather satisfied,Madrid,2023,27.6,Spain
+PS3261V,The quality of the air in the city: rather satisfied,Helsinki,2012,62.0,
+PS3261V,The quality of the air in the city: rather satisfied,Helsinki,2015,64.0,
+PS3261V,The quality of the air in the city: rather satisfied,Helsinki,2023,60.5,
+PS3261V,The quality of the air in the city: rather satisfied,Paris,2012,36.0,France
+PS3261V,The quality of the air in the city: rather satisfied,Paris,2015,25.0,France
+PS3261V,The quality of the air in the city: rather satisfied,Paris,2019,23.6,France
+PS3261V,The quality of the air in the city: rather satisfied,Paris,2023,17.9,France
+PS3261V,The quality of the air in the city: rather satisfied,Zagreb,2012,52.0,Croatia
+PS3261V,The quality of the air in the city: rather satisfied,Zagreb,2015,49.0,Croatia
+PS3261V,The quality of the air in the city: rather satisfied,Zagreb,2019,46.6,Croatia
+PS3261V,The quality of the air in the city: rather satisfied,Zagreb,2023,43.1,Croatia
+PS3261V,The quality of the air in the city: rather satisfied,Budapest,2012,31.0,Hungary
+PS3261V,The quality of the air in the city: rather satisfied,Budapest,2015,40.0,Hungary
+PS3261V,The quality of the air in the city: rather satisfied,Budapest,2019,37.3,Hungary
+PS3261V,The quality of the air in the city: rather satisfied,Budapest,2023,35.4,Hungary
+PS3261V,The quality of the air in the city: rather satisfied,Dublin,2012,53.0,Ireland
+PS3261V,The quality of the air in the city: rather satisfied,Dublin,2015,55.0,Ireland
+PS3261V,The quality of the air in the city: rather satisfied,Dublin,2019,50.0,Ireland
+PS3261V,The quality of the air in the city: rather satisfied,Dublin,2023,50.4,Ireland
+PS3261V,The quality of the air in the city: rather satisfied,Reykjavík,2012,45.0,Iceland
+PS3261V,The quality of the air in the city: rather satisfied,Reykjavík,2015,45.0,Iceland
+PS3261V,The quality of the air in the city: rather satisfied,Reykjavík,2019,43.5,Iceland
+PS3261V,The quality of the air in the city: rather satisfied,Reykjavík,2023,45.3,Iceland
+PS3261V,The quality of the air in the city: rather satisfied,Rome,2012,29.0,Italy
+PS3261V,The quality of the air in the city: rather satisfied,Rome,2015,28.0,Italy
+PS3261V,The quality of the air in the city: rather satisfied,Rome,2019,26.2,Italy
+PS3261V,The quality of the air in the city: rather satisfied,Rome,2023,28.1,Italy
+PS3261V,The quality of the air in the city: rather satisfied,Vilnius,2012,46.0,Lithuania
+PS3261V,The quality of the air in the city: rather satisfied,Vilnius,2015,50.0,Lithuania
+PS3261V,The quality of the air in the city: rather satisfied,Vilnius,2019,52.3,Lithuania
+PS3261V,The quality of the air in the city: rather satisfied,Vilnius,2023,51.3,Lithuania
+PS3261V,The quality of the air in the city: rather satisfied,Luxembourg,2012,57.0,Luxembourg
+PS3261V,The quality of the air in the city: rather satisfied,Luxembourg,2015,56.0,Luxembourg
+PS3261V,The quality of the air in the city: rather satisfied,Luxembourg,2019,54.6,Luxembourg
+PS3261V,The quality of the air in the city: rather satisfied,Luxembourg,2023,51.5,Luxembourg
+PS3261V,The quality of the air in the city: rather satisfied,Riga,2012,53.0,Latvia
+PS3261V,The quality of the air in the city: rather satisfied,Riga,2015,53.0,Latvia
+PS3261V,The quality of the air in the city: rather satisfied,Riga,2019,50.4,Latvia
+PS3261V,The quality of the air in the city: rather satisfied,Riga,2023,51.7,Latvia
+PS3261V,The quality of the air in the city: rather satisfied,Valletta,2012,21.0,Malta
+PS3261V,The quality of the air in the city: rather satisfied,Valletta,2015,22.0,Malta
+PS3261V,The quality of the air in the city: rather satisfied,Valletta,2019,22.4,Malta
+PS3261V,The quality of the air in the city: rather satisfied,Valletta,2023,23.8,Malta
+PS3261V,The quality of the air in the city: rather satisfied,Amsterdam,2019,52.1,Netherlands
+PS3261V,The quality of the air in the city: rather satisfied,Amsterdam,2023,47.8,Netherlands
+PS3261V,The quality of the air in the city: rather satisfied,Oslo,2012,59.0,Norway
+PS3261V,The quality of the air in the city: rather satisfied,Oslo,2015,57.0,Norway
+PS3261V,The quality of the air in the city: rather satisfied,Oslo,2019,54.6,Norway
+PS3261V,The quality of the air in the city: rather satisfied,Oslo,2023,54.5,Norway
+PS3261V,The quality of the air in the city: rather satisfied,Warsaw,2012,44.0,Poland
+PS3261V,The quality of the air in the city: rather satisfied,Warsaw,2015,45.0,Poland
+PS3261V,The quality of the air in the city: rather satisfied,Warsaw,2019,41.3,Poland
+PS3261V,The quality of the air in the city: rather satisfied,Warsaw,2023,29.4,Poland
+PS3261V,The quality of the air in the city: rather satisfied,Lisbon,2012,54.0,Portugal
+PS3261V,The quality of the air in the city: rather satisfied,Lisbon,2015,53.0,Portugal
+PS3261V,The quality of the air in the city: rather satisfied,Lisbon,2019,44.9,Portugal
+PS3261V,The quality of the air in the city: rather satisfied,Lisbon,2023,49.4,Portugal
+PS3261V,The quality of the air in the city: rather satisfied,Bucharest,2012,15.0,Romania
+PS3261V,The quality of the air in the city: rather satisfied,Bucharest,2015,18.0,Romania
+PS3261V,The quality of the air in the city: rather satisfied,Bucharest,2019,16.8,Romania
+PS3261V,The quality of the air in the city: rather satisfied,Bucharest,2023,14.2,Romania
+PS3261V,The quality of the air in the city: rather satisfied,Stockholm,2012,53.0,Sweden
+PS3261V,The quality of the air in the city: rather satisfied,Stockholm,2015,51.0,Sweden
+PS3261V,The quality of the air in the city: rather satisfied,Stockholm,2019,51.3,Sweden
+PS3261V,The quality of the air in the city: rather satisfied,Stockholm,2023,49.3,Sweden
+PS3261V,The quality of the air in the city: rather satisfied,Ljubljana,2012,47.0,Slovenia
+PS3261V,The quality of the air in the city: rather satisfied,Ljubljana,2015,51.0,Slovenia
+PS3261V,The quality of the air in the city: rather satisfied,Ljubljana,2019,49.4,Slovenia
+PS3261V,The quality of the air in the city: rather satisfied,Ljubljana,2023,47.5,Slovenia
+PS3261V,The quality of the air in the city: rather satisfied,Bratislava,2012,38.0,Slovakia
+PS3261V,The quality of the air in the city: rather satisfied,Bratislava,2015,47.0,Slovakia
+PS3261V,The quality of the air in the city: rather satisfied,Bratislava,2019,41.7,Slovakia
+PS3261V,The quality of the air in the city: rather satisfied,Bratislava,2023,42.4,Slovakia
+PS3261V,The quality of the air in the city: rather satisfied,Ankara,2012,41.0,Türkiye
+PS3261V,The quality of the air in the city: rather satisfied,Ankara,2015,39.0,Türkiye
+PS3261V,The quality of the air in the city: rather satisfied,Ankara,2019,37.7,Türkiye
+PS3261V,The quality of the air in the city: rather satisfied,Ankara,2023,40.5,Türkiye
+PS3262V,The quality of the air in the city: rather unsatisfied,Vienna,2012,18.0,Austria
+PS3262V,The quality of the air in the city: rather unsatisfied,Vienna,2015,11.0,Austria
+PS3262V,The quality of the air in the city: rather unsatisfied,Vienna,2019,11.9,Austria
+PS3262V,The quality of the air in the city: rather unsatisfied,Vienna,2023,16.6,Austria
+PS3262V,The quality of the air in the city: rather unsatisfied,Brussels,2012,29.0,Belgium
+PS3262V,The quality of the air in the city: rather unsatisfied,Brussels,2015,30.0,Belgium
+PS3262V,The quality of the air in the city: rather unsatisfied,Brussels,2019,31.1,Belgium
+PS3262V,The quality of the air in the city: rather unsatisfied,Brussels,2023,36.1,Belgium
+PS3262V,The quality of the air in the city: rather unsatisfied,Sofia,2012,35.0,Bulgaria
+PS3262V,The quality of the air in the city: rather unsatisfied,Sofia,2015,37.0,Bulgaria
+PS3262V,The quality of the air in the city: rather unsatisfied,Sofia,2019,37.0,Bulgaria
+PS3262V,The quality of the air in the city: rather unsatisfied,Sofia,2023,33.6,Bulgaria
+PS3262V,The quality of the air in the city: rather unsatisfied,Nicosia,2012,20.0,Cyprus
+PS3262V,The quality of the air in the city: rather unsatisfied,Nicosia,2015,21.0,Cyprus
+PS3262V,The quality of the air in the city: rather unsatisfied,Nicosia,2019,21.2,Cyprus
+PS3262V,The quality of the air in the city: rather unsatisfied,Nicosia,2023,21.2,Cyprus
+PS3262V,The quality of the air in the city: rather unsatisfied,Prague,2012,44.0,Czechia
+PS3262V,The quality of the air in the city: rather unsatisfied,Prague,2015,32.0,Czechia
+PS3262V,The quality of the air in the city: rather unsatisfied,Prague,2019,28.6,Czechia
+PS3262V,The quality of the air in the city: rather unsatisfied,Prague,2023,27.4,Czechia
+PS3262V,The quality of the air in the city: rather unsatisfied,Berlin,2012,26.0,Germany
+PS3262V,The quality of the air in the city: rather unsatisfied,Berlin,2015,22.0,Germany
+PS3262V,The quality of the air in the city: rather unsatisfied,Berlin,2019,22.5,Germany
+PS3262V,The quality of the air in the city: rather unsatisfied,Berlin,2023,20.6,Germany
+PS3262V,The quality of the air in the city: rather unsatisfied,Copenhagen,2012,28.0,Denmark
+PS3262V,The quality of the air in the city: rather unsatisfied,Copenhagen,2015,25.0,Denmark
+PS3262V,The quality of the air in the city: rather unsatisfied,Copenhagen,2019,21.6,Denmark
+PS3262V,The quality of the air in the city: rather unsatisfied,Copenhagen,2023,21.5,Denmark
+PS3262V,The quality of the air in the city: rather unsatisfied,Tallinn,2012,25.0,Estonia
+PS3262V,The quality of the air in the city: rather unsatisfied,Tallinn,2015,18.0,Estonia
+PS3262V,The quality of the air in the city: rather unsatisfied,Tallinn,2019,15.1,Estonia
+PS3262V,The quality of the air in the city: rather unsatisfied,Tallinn,2023,19.0,Estonia
+PS3262V,The quality of the air in the city: rather unsatisfied,Athens,2012,25.0,Greece
+PS3262V,The quality of the air in the city: rather unsatisfied,Athens,2015,29.0,Greece
+PS3262V,The quality of the air in the city: rather unsatisfied,Athens,2019,31.4,Greece
+PS3262V,The quality of the air in the city: rather unsatisfied,Athens,2023,34.0,Greece
+PS3262V,The quality of the air in the city: rather unsatisfied,Madrid,2012,35.0,Spain
+PS3262V,The quality of the air in the city: rather unsatisfied,Madrid,2015,33.0,Spain
+PS3262V,The quality of the air in the city: rather unsatisfied,Madrid,2019,31.9,Spain
+PS3262V,The quality of the air in the city: rather unsatisfied,Madrid,2023,32.7,Spain
+PS3262V,The quality of the air in the city: rather unsatisfied,Helsinki,2012,19.0,
+PS3262V,The quality of the air in the city: rather unsatisfied,Helsinki,2015,10.0,
+PS3262V,The quality of the air in the city: rather unsatisfied,Helsinki,2023,9.2,
+PS3262V,The quality of the air in the city: rather unsatisfied,Paris,2012,38.0,France
+PS3262V,The quality of the air in the city: rather unsatisfied,Paris,2015,39.0,France
+PS3262V,The quality of the air in the city: rather unsatisfied,Paris,2019,39.4,France
+PS3262V,The quality of the air in the city: rather unsatisfied,Paris,2023,41.7,France
+PS3262V,The quality of the air in the city: rather unsatisfied,Zagreb,2012,21.0,Croatia
+PS3262V,The quality of the air in the city: rather unsatisfied,Zagreb,2015,23.0,Croatia
+PS3262V,The quality of the air in the city: rather unsatisfied,Zagreb,2019,22.1,Croatia
+PS3262V,The quality of the air in the city: rather unsatisfied,Zagreb,2023,27.8,Croatia
+PS3262V,The quality of the air in the city: rather unsatisfied,Budapest,2012,36.0,Hungary
+PS3262V,The quality of the air in the city: rather unsatisfied,Budapest,2015,36.0,Hungary
+PS3262V,The quality of the air in the city: rather unsatisfied,Budapest,2019,35.7,Hungary
+PS3262V,The quality of the air in the city: rather unsatisfied,Budapest,2023,34.9,Hungary
+PS3262V,The quality of the air in the city: rather unsatisfied,Dublin,2012,12.0,Ireland
+PS3262V,The quality of the air in the city: rather unsatisfied,Dublin,2015,8.0,Ireland
+PS3262V,The quality of the air in the city: rather unsatisfied,Dublin,2019,7.9,Ireland
+PS3262V,The quality of the air in the city: rather unsatisfied,Dublin,2023,9.9,Ireland
+PS3262V,The quality of the air in the city: rather unsatisfied,Reykjavík,2012,11.0,Iceland
+PS3262V,The quality of the air in the city: rather unsatisfied,Reykjavík,2015,9.0,Iceland
+PS3262V,The quality of the air in the city: rather unsatisfied,Reykjavík,2019,13.5,Iceland
+PS3262V,The quality of the air in the city: rather unsatisfied,Reykjavík,2023,13.4,Iceland
+PS3262V,The quality of the air in the city: rather unsatisfied,Rome,2012,39.0,Italy
+PS3262V,The quality of the air in the city: rather unsatisfied,Rome,2015,48.0,Italy
+PS3262V,The quality of the air in the city: rather unsatisfied,Rome,2019,42.6,Italy
+PS3262V,The quality of the air in the city: rather unsatisfied,Rome,2023,44.3,Italy
+PS3262V,The quality of the air in the city: rather unsatisfied,Vilnius,2012,29.0,Lithuania
+PS3262V,The quality of the air in the city: rather unsatisfied,Vilnius,2015,23.0,Lithuania
+PS3262V,The quality of the air in the city: rather unsatisfied,Vilnius,2019,21.9,Lithuania
+PS3262V,The quality of the air in the city: rather unsatisfied,Vilnius,2023,22.2,Lithuania
+PS3262V,The quality of the air in the city: rather unsatisfied,Luxembourg,2012,9.0,Luxembourg
+PS3262V,The quality of the air in the city: rather unsatisfied,Luxembourg,2015,13.0,Luxembourg
+PS3262V,The quality of the air in the city: rather unsatisfied,Luxembourg,2019,14.2,Luxembourg
+PS3262V,The quality of the air in the city: rather unsatisfied,Luxembourg,2023,15.7,Luxembourg
+PS3262V,The quality of the air in the city: rather unsatisfied,Riga,2012,26.0,Latvia
+PS3262V,The quality of the air in the city: rather unsatisfied,Riga,2015,24.0,Latvia
+PS3262V,The quality of the air in the city: rather unsatisfied,Riga,2019,22.6,Latvia
+PS3262V,The quality of the air in the city: rather unsatisfied,Riga,2023,24.2,Latvia
+PS3262V,The quality of the air in the city: rather unsatisfied,Valletta,2012,25.0,Malta
+PS3262V,The quality of the air in the city: rather unsatisfied,Valletta,2015,29.0,Malta
+PS3262V,The quality of the air in the city: rather unsatisfied,Valletta,2019,32.0,Malta
+PS3262V,The quality of the air in the city: rather unsatisfied,Valletta,2023,33.9,Malta
+PS3262V,The quality of the air in the city: rather unsatisfied,Amsterdam,2019,19.8,Netherlands
+PS3262V,The quality of the air in the city: rather unsatisfied,Amsterdam,2023,22.8,Netherlands
+PS3262V,The quality of the air in the city: rather unsatisfied,Oslo,2012,23.0,Norway
+PS3262V,The quality of the air in the city: rather unsatisfied,Oslo,2015,22.0,Norway
+PS3262V,The quality of the air in the city: rather unsatisfied,Oslo,2019,20.7,Norway
+PS3262V,The quality of the air in the city: rather unsatisfied,Oslo,2023,20.1,Norway
+PS3262V,The quality of the air in the city: rather unsatisfied,Warsaw,2012,33.0,Poland
+PS3262V,The quality of the air in the city: rather unsatisfied,Warsaw,2015,35.0,Poland
+PS3262V,The quality of the air in the city: rather unsatisfied,Warsaw,2019,35.5,Poland
+PS3262V,The quality of the air in the city: rather unsatisfied,Warsaw,2023,41.7,Poland
+PS3262V,The quality of the air in the city: rather unsatisfied,Lisbon,2012,26.0,Portugal
+PS3262V,The quality of the air in the city: rather unsatisfied,Lisbon,2015,24.0,Portugal
+PS3262V,The quality of the air in the city: rather unsatisfied,Lisbon,2019,35.0,Portugal
+PS3262V,The quality of the air in the city: rather unsatisfied,Lisbon,2023,31.8,Portugal
+PS3262V,The quality of the air in the city: rather unsatisfied,Bucharest,2012,40.0,Romania
+PS3262V,The quality of the air in the city: rather unsatisfied,Bucharest,2015,38.0,Romania
+PS3262V,The quality of the air in the city: rather unsatisfied,Bucharest,2019,38.5,Romania
+PS3262V,The quality of the air in the city: rather unsatisfied,Bucharest,2023,39.1,Romania
+PS3262V,The quality of the air in the city: rather unsatisfied,Stockholm,2012,21.0,Sweden
+PS3262V,The quality of the air in the city: rather unsatisfied,Stockholm,2015,16.0,Sweden
+PS3262V,The quality of the air in the city: rather unsatisfied,Stockholm,2019,14.5,Sweden
+PS3262V,The quality of the air in the city: rather unsatisfied,Stockholm,2023,18.1,Sweden
+PS3262V,The quality of the air in the city: rather unsatisfied,Ljubljana,2012,27.0,Slovenia
+PS3262V,The quality of the air in the city: rather unsatisfied,Ljubljana,2015,16.0,Slovenia
+PS3262V,The quality of the air in the city: rather unsatisfied,Ljubljana,2019,18.1,Slovenia
+PS3262V,The quality of the air in the city: rather unsatisfied,Ljubljana,2023,24.8,Slovenia
+PS3262V,The quality of the air in the city: rather unsatisfied,Bratislava,2012,39.0,Slovakia
+PS3262V,The quality of the air in the city: rather unsatisfied,Bratislava,2015,33.0,Slovakia
+PS3262V,The quality of the air in the city: rather unsatisfied,Bratislava,2019,34.9,Slovakia
+PS3262V,The quality of the air in the city: rather unsatisfied,Bratislava,2023,36.7,Slovakia
+PS3262V,The quality of the air in the city: rather unsatisfied,Ankara,2012,18.0,Türkiye
+PS3262V,The quality of the air in the city: rather unsatisfied,Ankara,2015,20.0,Türkiye
+PS3262V,The quality of the air in the city: rather unsatisfied,Ankara,2019,17.0,Türkiye
+PS3262V,The quality of the air in the city: rather unsatisfied,Ankara,2023,19.5,Türkiye
+PS3263V,The quality of the air in the city: not at all satisfied,Vienna,2012,3.0,Austria
+PS3263V,The quality of the air in the city: not at all satisfied,Vienna,2015,1.0,Austria
+PS3263V,The quality of the air in the city: not at all satisfied,Vienna,2019,3.1,Austria
+PS3263V,The quality of the air in the city: not at all satisfied,Vienna,2023,6.0,Austria
+PS3263V,The quality of the air in the city: not at all satisfied,Brussels,2012,16.0,Belgium
+PS3263V,The quality of the air in the city: not at all satisfied,Brussels,2015,17.0,Belgium
+PS3263V,The quality of the air in the city: not at all satisfied,Brussels,2019,17.5,Belgium
+PS3263V,The quality of the air in the city: not at all satisfied,Brussels,2023,11.8,Belgium
+PS3263V,The quality of the air in the city: not at all satisfied,Sofia,2012,36.0,Bulgaria
+PS3263V,The quality of the air in the city: not at all satisfied,Sofia,2015,32.0,Bulgaria
+PS3263V,The quality of the air in the city: not at all satisfied,Sofia,2019,33.3,Bulgaria
+PS3263V,The quality of the air in the city: not at all satisfied,Sofia,2023,23.9,Bulgaria
+PS3263V,The quality of the air in the city: not at all satisfied,Nicosia,2012,12.0,Cyprus
+PS3263V,The quality of the air in the city: not at all satisfied,Nicosia,2015,11.0,Cyprus
+PS3263V,The quality of the air in the city: not at all satisfied,Nicosia,2019,12.4,Cyprus
+PS3263V,The quality of the air in the city: not at all satisfied,Nicosia,2023,6.8,Cyprus
+PS3263V,The quality of the air in the city: not at all satisfied,Prague,2012,16.0,Czechia
+PS3263V,The quality of the air in the city: not at all satisfied,Prague,2015,8.0,Czechia
+PS3263V,The quality of the air in the city: not at all satisfied,Prague,2019,9.7,Czechia
+PS3263V,The quality of the air in the city: not at all satisfied,Prague,2023,11.9,Czechia
+PS3263V,The quality of the air in the city: not at all satisfied,Berlin,2012,4.0,Germany
+PS3263V,The quality of the air in the city: not at all satisfied,Berlin,2015,5.0,Germany
+PS3263V,The quality of the air in the city: not at all satisfied,Berlin,2019,5.3,Germany
+PS3263V,The quality of the air in the city: not at all satisfied,Berlin,2023,7.7,Germany
+PS3263V,The quality of the air in the city: not at all satisfied,Copenhagen,2012,8.0,Denmark
+PS3263V,The quality of the air in the city: not at all satisfied,Copenhagen,2015,5.0,Denmark
+PS3263V,The quality of the air in the city: not at all satisfied,Copenhagen,2019,8.4,Denmark
+PS3263V,The quality of the air in the city: not at all satisfied,Copenhagen,2023,11.4,Denmark
+PS3263V,The quality of the air in the city: not at all satisfied,Tallinn,2012,8.0,Estonia
+PS3263V,The quality of the air in the city: not at all satisfied,Tallinn,2015,4.0,Estonia
+PS3263V,The quality of the air in the city: not at all satisfied,Tallinn,2019,6.4,Estonia
+PS3263V,The quality of the air in the city: not at all satisfied,Tallinn,2023,6.2,Estonia
+PS3263V,The quality of the air in the city: not at all satisfied,Athens,2012,41.0,Greece
+PS3263V,The quality of the air in the city: not at all satisfied,Athens,2015,30.0,Greece
+PS3263V,The quality of the air in the city: not at all satisfied,Athens,2019,39.4,Greece
+PS3263V,The quality of the air in the city: not at all satisfied,Athens,2023,37.4,Greece
+PS3263V,The quality of the air in the city: not at all satisfied,Madrid,2012,38.0,Spain
+PS3263V,The quality of the air in the city: not at all satisfied,Madrid,2015,33.0,Spain
+PS3263V,The quality of the air in the city: not at all satisfied,Madrid,2019,33.5,Spain
+PS3263V,The quality of the air in the city: not at all satisfied,Madrid,2023,27.2,Spain
+PS3263V,The quality of the air in the city: not at all satisfied,Helsinki,2012,1.0,
+PS3263V,The quality of the air in the city: not at all satisfied,Helsinki,2015,1.0,
+PS3263V,The quality of the air in the city: not at all satisfied,Helsinki,2023,2.6,
+PS3263V,The quality of the air in the city: not at all satisfied,Paris,2012,20.0,France
+PS3263V,The quality of the air in the city: not at all satisfied,Paris,2015,29.0,France
+PS3263V,The quality of the air in the city: not at all satisfied,Paris,2019,29.9,France
+PS3263V,The quality of the air in the city: not at all satisfied,Paris,2023,30.6,France
+PS3263V,The quality of the air in the city: not at all satisfied,Zagreb,2012,10.0,Croatia
+PS3263V,The quality of the air in the city: not at all satisfied,Zagreb,2015,5.0,Croatia
+PS3263V,The quality of the air in the city: not at all satisfied,Zagreb,2019,7.2,Croatia
+PS3263V,The quality of the air in the city: not at all satisfied,Zagreb,2023,9.9,Croatia
+PS3263V,The quality of the air in the city: not at all satisfied,Budapest,2012,26.0,Hungary
+PS3263V,The quality of the air in the city: not at all satisfied,Budapest,2015,15.0,Hungary
+PS3263V,The quality of the air in the city: not at all satisfied,Budapest,2019,15.1,Hungary
+PS3263V,The quality of the air in the city: not at all satisfied,Budapest,2023,18.7,Hungary
+PS3263V,The quality of the air in the city: not at all satisfied,Dublin,2012,5.0,Ireland
+PS3263V,The quality of the air in the city: not at all satisfied,Dublin,2015,3.0,Ireland
+PS3263V,The quality of the air in the city: not at all satisfied,Dublin,2019,7.4,Ireland
+PS3263V,The quality of the air in the city: not at all satisfied,Dublin,2023,7.5,Ireland
+PS3263V,The quality of the air in the city: not at all satisfied,Reykjavík,2012,1.0,Iceland
+PS3263V,The quality of the air in the city: not at all satisfied,Reykjavík,2015,3.0,Iceland
+PS3263V,The quality of the air in the city: not at all satisfied,Reykjavík,2019,3.8,Iceland
+PS3263V,The quality of the air in the city: not at all satisfied,Reykjavík,2023,3.1,Iceland
+PS3263V,The quality of the air in the city: not at all satisfied,Rome,2012,26.0,Italy
+PS3263V,The quality of the air in the city: not at all satisfied,Rome,2015,20.0,Italy
+PS3263V,The quality of the air in the city: not at all satisfied,Rome,2019,25.0,Italy
+PS3263V,The quality of the air in the city: not at all satisfied,Rome,2023,24.4,Italy
+PS3263V,The quality of the air in the city: not at all satisfied,Vilnius,2012,10.0,Lithuania
+PS3263V,The quality of the air in the city: not at all satisfied,Vilnius,2015,5.0,Lithuania
+PS3263V,The quality of the air in the city: not at all satisfied,Vilnius,2019,4.4,Lithuania
+PS3263V,The quality of the air in the city: not at all satisfied,Vilnius,2023,5.9,Lithuania
+PS3263V,The quality of the air in the city: not at all satisfied,Luxembourg,2012,3.0,Luxembourg
+PS3263V,The quality of the air in the city: not at all satisfied,Luxembourg,2015,3.0,Luxembourg
+PS3263V,The quality of the air in the city: not at all satisfied,Luxembourg,2019,4.1,Luxembourg
+PS3263V,The quality of the air in the city: not at all satisfied,Luxembourg,2023,4.7,Luxembourg
+PS3263V,The quality of the air in the city: not at all satisfied,Riga,2012,6.0,Latvia
+PS3263V,The quality of the air in the city: not at all satisfied,Riga,2015,7.0,Latvia
+PS3263V,The quality of the air in the city: not at all satisfied,Riga,2019,7.3,Latvia
+PS3263V,The quality of the air in the city: not at all satisfied,Riga,2023,7.5,Latvia
+PS3263V,The quality of the air in the city: not at all satisfied,Valletta,2012,40.0,Malta
+PS3263V,The quality of the air in the city: not at all satisfied,Valletta,2015,33.0,Malta
+PS3263V,The quality of the air in the city: not at all satisfied,Valletta,2019,32.7,Malta
+PS3263V,The quality of the air in the city: not at all satisfied,Valletta,2023,29.9,Malta
+PS3263V,The quality of the air in the city: not at all satisfied,Amsterdam,2019,8.8,Netherlands
+PS3263V,The quality of the air in the city: not at all satisfied,Amsterdam,2023,10.6,Netherlands
+PS3263V,The quality of the air in the city: not at all satisfied,Oslo,2012,5.0,Norway
+PS3263V,The quality of the air in the city: not at all satisfied,Oslo,2015,3.0,Norway
+PS3263V,The quality of the air in the city: not at all satisfied,Oslo,2019,2.3,Norway
+PS3263V,The quality of the air in the city: not at all satisfied,Oslo,2023,2.7,Norway
+PS3263V,The quality of the air in the city: not at all satisfied,Warsaw,2012,12.0,Poland
+PS3263V,The quality of the air in the city: not at all satisfied,Warsaw,2015,10.0,Poland
+PS3263V,The quality of the air in the city: not at all satisfied,Warsaw,2019,14.0,Poland
+PS3263V,The quality of the air in the city: not at all satisfied,Warsaw,2023,20.4,Poland
+PS3263V,The quality of the air in the city: not at all satisfied,Lisbon,2012,7.0,Portugal
+PS3263V,The quality of the air in the city: not at all satisfied,Lisbon,2015,7.0,Portugal
+PS3263V,The quality of the air in the city: not at all satisfied,Lisbon,2019,8.3,Portugal
+PS3263V,The quality of the air in the city: not at all satisfied,Lisbon,2023,9.5,Portugal
+PS3263V,The quality of the air in the city: not at all satisfied,Bucharest,2012,42.0,Romania
+PS3263V,The quality of the air in the city: not at all satisfied,Bucharest,2015,37.0,Romania
+PS3263V,The quality of the air in the city: not at all satisfied,Bucharest,2019,40.9,Romania
+PS3263V,The quality of the air in the city: not at all satisfied,Bucharest,2023,40.0,Romania
+PS3263V,The quality of the air in the city: not at all satisfied,Stockholm,2012,5.0,Sweden
+PS3263V,The quality of the air in the city: not at all satisfied,Stockholm,2015,4.0,Sweden
+PS3263V,The quality of the air in the city: not at all satisfied,Stockholm,2019,5.9,Sweden
+PS3263V,The quality of the air in the city: not at all satisfied,Stockholm,2023,8.4,Sweden
+PS3263V,The quality of the air in the city: not at all satisfied,Ljubljana,2012,11.0,Slovenia
+PS3263V,The quality of the air in the city: not at all satisfied,Ljubljana,2015,6.0,Slovenia
+PS3263V,The quality of the air in the city: not at all satisfied,Ljubljana,2019,6.1,Slovenia
+PS3263V,The quality of the air in the city: not at all satisfied,Ljubljana,2023,7.4,Slovenia
+PS3263V,The quality of the air in the city: not at all satisfied,Bratislava,2012,15.0,Slovakia
+PS3263V,The quality of the air in the city: not at all satisfied,Bratislava,2015,10.0,Slovakia
+PS3263V,The quality of the air in the city: not at all satisfied,Bratislava,2019,8.7,Slovakia
+PS3263V,The quality of the air in the city: not at all satisfied,Bratislava,2023,10.7,Slovakia
+PS3263V,The quality of the air in the city: not at all satisfied,Ankara,2012,20.0,Türkiye
+PS3263V,The quality of the air in the city: not at all satisfied,Ankara,2015,13.0,Türkiye
+PS3263V,The quality of the air in the city: not at all satisfied,Ankara,2019,9.5,Türkiye
+PS3263V,The quality of the air in the city: not at all satisfied,Ankara,2023,13.2,Türkiye
+PS3264V,The quality of the air in the city: don't know/no answer,Vienna,2012,1.0,Austria
+PS3264V,The quality of the air in the city: don't know/no answer,Vienna,2019,0.6,Austria
+PS3264V,The quality of the air in the city: don't know/no answer,Vienna,2023,0.6,Austria
+PS3264V,The quality of the air in the city: don't know/no answer,Brussels,2012,4.0,Belgium
+PS3264V,The quality of the air in the city: don't know/no answer,Brussels,2015,2.0,Belgium
+PS3264V,The quality of the air in the city: don't know/no answer,Brussels,2019,1.0,Belgium
+PS3264V,The quality of the air in the city: don't know/no answer,Brussels,2023,1.2,Belgium
+PS3264V,The quality of the air in the city: don't know/no answer,Sofia,2012,3.0,Bulgaria
+PS3264V,The quality of the air in the city: don't know/no answer,Sofia,2015,3.0,Bulgaria
+PS3264V,The quality of the air in the city: don't know/no answer,Sofia,2019,4.1,Bulgaria
+PS3264V,The quality of the air in the city: don't know/no answer,Sofia,2023,2.5,Bulgaria
+PS3264V,The quality of the air in the city: don't know/no answer,Nicosia,2012,2.0,Cyprus
+PS3264V,The quality of the air in the city: don't know/no answer,Nicosia,2015,3.0,Cyprus
+PS3264V,The quality of the air in the city: don't know/no answer,Nicosia,2019,4.0,Cyprus
+PS3264V,The quality of the air in the city: don't know/no answer,Nicosia,2023,2.0,Cyprus
+PS3264V,The quality of the air in the city: don't know/no answer,Prague,2012,1.0,Czechia
+PS3264V,The quality of the air in the city: don't know/no answer,Prague,2015,1.0,Czechia
+PS3264V,The quality of the air in the city: don't know/no answer,Prague,2019,1.9,Czechia
+PS3264V,The quality of the air in the city: don't know/no answer,Prague,2023,1.0,Czechia
+PS3264V,The quality of the air in the city: don't know/no answer,Berlin,2012,4.0,Germany
+PS3264V,The quality of the air in the city: don't know/no answer,Berlin,2015,2.0,Germany
+PS3264V,The quality of the air in the city: don't know/no answer,Berlin,2019,2.0,Germany
+PS3264V,The quality of the air in the city: don't know/no answer,Berlin,2023,1.5,Germany
+PS3264V,The quality of the air in the city: don't know/no answer,Copenhagen,2012,3.0,Denmark
+PS3264V,The quality of the air in the city: don't know/no answer,Copenhagen,2015,2.0,Denmark
+PS3264V,The quality of the air in the city: don't know/no answer,Copenhagen,2019,4.0,Denmark
+PS3264V,The quality of the air in the city: don't know/no answer,Copenhagen,2023,3.1,Denmark
+PS3264V,The quality of the air in the city: don't know/no answer,Tallinn,2012,6.0,Estonia
+PS3264V,The quality of the air in the city: don't know/no answer,Tallinn,2015,3.0,Estonia
+PS3264V,The quality of the air in the city: don't know/no answer,Tallinn,2019,1.6,Estonia
+PS3264V,The quality of the air in the city: don't know/no answer,Tallinn,2023,2.0,Estonia
+PS3264V,The quality of the air in the city: don't know/no answer,Athens,2012,2.0,Greece
+PS3264V,The quality of the air in the city: don't know/no answer,Athens,2015,2.0,Greece
+PS3264V,The quality of the air in the city: don't know/no answer,Athens,2019,1.2,Greece
+PS3264V,The quality of the air in the city: don't know/no answer,Athens,2023,1.1,Greece
+PS3264V,The quality of the air in the city: don't know/no answer,Madrid,2012,2.0,Spain
+PS3264V,The quality of the air in the city: don't know/no answer,Madrid,2015,3.0,Spain
+PS3264V,The quality of the air in the city: don't know/no answer,Madrid,2019,2.7,Spain
+PS3264V,The quality of the air in the city: don't know/no answer,Madrid,2023,1.7,Spain
+PS3264V,The quality of the air in the city: don't know/no answer,Helsinki,2012,1.0,
+PS3264V,The quality of the air in the city: don't know/no answer,Helsinki,2015,1.0,
+PS3264V,The quality of the air in the city: don't know/no answer,Helsinki,2023,0.7,
+PS3264V,The quality of the air in the city: don't know/no answer,Paris,2012,2.0,France
+PS3264V,The quality of the air in the city: don't know/no answer,Paris,2015,2.0,France
+PS3264V,The quality of the air in the city: don't know/no answer,Paris,2019,1.4,France
+PS3264V,The quality of the air in the city: don't know/no answer,Paris,2023,2.1,France
+PS3264V,The quality of the air in the city: don't know/no answer,Zagreb,2012,1.0,Croatia
+PS3264V,The quality of the air in the city: don't know/no answer,Zagreb,2015,3.0,Croatia
+PS3264V,The quality of the air in the city: don't know/no answer,Zagreb,2019,2.7,Croatia
+PS3264V,The quality of the air in the city: don't know/no answer,Zagreb,2023,3.0,Croatia
+PS3264V,The quality of the air in the city: don't know/no answer,Budapest,2012,1.0,Hungary
+PS3264V,The quality of the air in the city: don't know/no answer,Budapest,2015,1.0,Hungary
+PS3264V,The quality of the air in the city: don't know/no answer,Budapest,2019,0.5,Hungary
+PS3264V,The quality of the air in the city: don't know/no answer,Budapest,2023,1.0,Hungary
+PS3264V,The quality of the air in the city: don't know/no answer,Dublin,2012,1.0,Ireland
+PS3264V,The quality of the air in the city: don't know/no answer,Dublin,2015,1.0,Ireland
+PS3264V,The quality of the air in the city: don't know/no answer,Dublin,2019,1.2,Ireland
+PS3264V,The quality of the air in the city: don't know/no answer,Dublin,2023,1.3,Ireland
+PS3264V,The quality of the air in the city: don't know/no answer,Reykjavík,2012,5.0,Iceland
+PS3264V,The quality of the air in the city: don't know/no answer,Reykjavík,2015,5.0,Iceland
+PS3264V,The quality of the air in the city: don't know/no answer,Reykjavík,2019,3.9,Iceland
+PS3264V,The quality of the air in the city: don't know/no answer,Reykjavík,2023,1.7,Iceland
+PS3264V,The quality of the air in the city: don't know/no answer,Rome,2012,1.0,Italy
+PS3264V,The quality of the air in the city: don't know/no answer,Rome,2019,0.8,Italy
+PS3264V,The quality of the air in the city: don't know/no answer,Rome,2023,0.6,Italy
+PS3264V,The quality of the air in the city: don't know/no answer,Vilnius,2012,2.0,Lithuania
+PS3264V,The quality of the air in the city: don't know/no answer,Vilnius,2015,3.0,Lithuania
+PS3264V,The quality of the air in the city: don't know/no answer,Vilnius,2019,2.4,Lithuania
+PS3264V,The quality of the air in the city: don't know/no answer,Vilnius,2023,2.2,Lithuania
+PS3264V,The quality of the air in the city: don't know/no answer,Luxembourg,2012,2.0,Luxembourg
+PS3264V,The quality of the air in the city: don't know/no answer,Luxembourg,2015,1.0,Luxembourg
+PS3264V,The quality of the air in the city: don't know/no answer,Luxembourg,2019,1.6,Luxembourg
+PS3264V,The quality of the air in the city: don't know/no answer,Luxembourg,2023,1.5,Luxembourg
+PS3264V,The quality of the air in the city: don't know/no answer,Riga,2012,1.0,Latvia
+PS3264V,The quality of the air in the city: don't know/no answer,Riga,2015,2.0,Latvia
+PS3264V,The quality of the air in the city: don't know/no answer,Riga,2019,1.9,Latvia
+PS3264V,The quality of the air in the city: don't know/no answer,Riga,2023,1.4,Latvia
+PS3264V,The quality of the air in the city: don't know/no answer,Valletta,2012,0.0,Malta
+PS3264V,The quality of the air in the city: don't know/no answer,Valletta,2015,3.0,Malta
+PS3264V,The quality of the air in the city: don't know/no answer,Valletta,2019,0.8,Malta
+PS3264V,The quality of the air in the city: don't know/no answer,Valletta,2023,0.4,Malta
+PS3264V,The quality of the air in the city: don't know/no answer,Amsterdam,2019,5.1,Netherlands
+PS3264V,The quality of the air in the city: don't know/no answer,Amsterdam,2023,4.9,Netherlands
+PS3264V,The quality of the air in the city: don't know/no answer,Oslo,2012,1.0,Norway
+PS3264V,The quality of the air in the city: don't know/no answer,Oslo,2015,2.0,Norway
+PS3264V,The quality of the air in the city: don't know/no answer,Oslo,2019,1.5,Norway
+PS3264V,The quality of the air in the city: don't know/no answer,Oslo,2023,0.9,Norway
+PS3264V,The quality of the air in the city: don't know/no answer,Warsaw,2012,3.0,Poland
+PS3264V,The quality of the air in the city: don't know/no answer,Warsaw,2015,4.0,Poland
+PS3264V,The quality of the air in the city: don't know/no answer,Warsaw,2019,3.1,Poland
+PS3264V,The quality of the air in the city: don't know/no answer,Warsaw,2023,1.6,Poland
+PS3264V,The quality of the air in the city: don't know/no answer,Lisbon,2012,4.0,Portugal
+PS3264V,The quality of the air in the city: don't know/no answer,Lisbon,2015,5.0,Portugal
+PS3264V,The quality of the air in the city: don't know/no answer,Lisbon,2019,4.7,Portugal
+PS3264V,The quality of the air in the city: don't know/no answer,Lisbon,2023,3.1,Portugal
+PS3264V,The quality of the air in the city: don't know/no answer,Bucharest,2012,1.0,Romania
+PS3264V,The quality of the air in the city: don't know/no answer,Bucharest,2015,3.0,Romania
+PS3264V,The quality of the air in the city: don't know/no answer,Bucharest,2019,0.9,Romania
+PS3264V,The quality of the air in the city: don't know/no answer,Bucharest,2023,1.3,Romania
+PS3264V,The quality of the air in the city: don't know/no answer,Stockholm,2012,2.0,Sweden
+PS3264V,The quality of the air in the city: don't know/no answer,Stockholm,2015,3.0,Sweden
+PS3264V,The quality of the air in the city: don't know/no answer,Stockholm,2019,2.0,Sweden
+PS3264V,The quality of the air in the city: don't know/no answer,Stockholm,2023,3.1,Sweden
+PS3264V,The quality of the air in the city: don't know/no answer,Ljubljana,2012,1.0,Slovenia
+PS3264V,The quality of the air in the city: don't know/no answer,Ljubljana,2015,2.0,Slovenia
+PS3264V,The quality of the air in the city: don't know/no answer,Ljubljana,2019,1.5,Slovenia
+PS3264V,The quality of the air in the city: don't know/no answer,Ljubljana,2023,1.4,Slovenia
+PS3264V,The quality of the air in the city: don't know/no answer,Bratislava,2012,2.0,Slovakia
+PS3264V,The quality of the air in the city: don't know/no answer,Bratislava,2015,4.0,Slovakia
+PS3264V,The quality of the air in the city: don't know/no answer,Bratislava,2019,3.8,Slovakia
+PS3264V,The quality of the air in the city: don't know/no answer,Bratislava,2023,2.4,Slovakia
+PS3264V,The quality of the air in the city: don't know/no answer,Ankara,2012,0.0,Türkiye
+PS3264V,The quality of the air in the city: don't know/no answer,Ankara,2019,1.1,Türkiye
+PS3264V,The quality of the air in the city: don't know/no answer,Ankara,2023,0.8,Türkiye

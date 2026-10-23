@@ -1,0 +1,871 @@
+﻿id,survey,city,year,percentage,country
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Vienna,2019,58.4,Austria
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Brussels,2019,31.8,Belgium
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Sofia,2019,12.7,Bulgaria
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Nicosia,2019,19.6,Cyprus
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Prague,2019,30.5,Czechia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Berlin,2019,37.2,Germany
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Copenhagen,2019,50.7,Denmark
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Tallinn,2019,35.9,Estonia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Athens,2019,6.7,Greece
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Madrid,2019,24.7,Spain
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Paris,2019,30.3,France
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Zagreb,2019,34.3,Croatia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Budapest,2019,18.9,Hungary
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Dublin,2019,52.5,Ireland
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Reykjavík,2019,26.5,Iceland
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Rome,2019,15.7,Italy
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Vilnius,2019,32.5,Lithuania
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Luxembourg,2019,51.1,Luxembourg
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Riga,2019,33.5,Latvia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Valletta,2019,19.1,Malta
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Amsterdam,2019,42.0,Netherlands
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Oslo,2019,47.2,Norway
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Warsaw,2019,35.5,Poland
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Lisbon,2019,11.6,Portugal
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Bucharest,2019,19.7,Romania
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Stockholm,2019,49.6,Sweden
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Ljubljana,2019,48.7,Slovenia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Bratislava,2019,14.1,Slovakia
+PS1052V,Green spaces such as public parcs or gardens: very satisfied,Ankara,2019,43.1,Türkiye
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Vienna,2019,31.1,Austria
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Brussels,2019,52.2,Belgium
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Sofia,2019,51.0,Bulgaria
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Nicosia,2019,34.1,Cyprus
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Prague,2019,48.1,Czechia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Berlin,2019,49.6,Germany
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Copenhagen,2019,39.2,Denmark
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Tallinn,2019,49.1,Estonia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Athens,2019,22.3,Greece
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Madrid,2019,42.6,Spain
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Paris,2019,53.2,France
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Zagreb,2019,47.0,Croatia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Budapest,2019,50.3,Hungary
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Dublin,2019,33.9,Ireland
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Reykjavík,2019,48.7,Iceland
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Rome,2019,43.1,Italy
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Vilnius,2019,52.4,Lithuania
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Luxembourg,2019,37.3,Luxembourg
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Riga,2019,51.3,Latvia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Valletta,2019,23.9,Malta
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Amsterdam,2019,45.7,Netherlands
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Oslo,2019,45.8,Norway
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Warsaw,2019,47.8,Poland
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Lisbon,2019,55.4,Portugal
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Bucharest,2019,41.7,Romania
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Stockholm,2019,40.9,Sweden
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Ljubljana,2019,38.1,Slovenia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Bratislava,2019,40.4,Slovakia
+PS1053V,Green spaces such as public parcs or gardens: rather satisfied,Ankara,2019,33.3,Türkiye
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Vienna,2019,8.0,Austria
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Brussels,2019,9.3,Belgium
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Sofia,2019,23.6,Bulgaria
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Nicosia,2019,25.6,Cyprus
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Prague,2019,16.2,Czechia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Berlin,2019,9.4,Germany
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Copenhagen,2019,6.4,Denmark
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Tallinn,2019,9.6,Estonia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Athens,2019,30.0,Greece
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Madrid,2019,18.2,Spain
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Paris,2019,12.4,France
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Zagreb,2019,12.9,Croatia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Budapest,2019,21.3,Hungary
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Dublin,2019,8.9,Ireland
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Reykjavík,2019,14.3,Iceland
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Rome,2019,24.1,Italy
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Vilnius,2019,9.8,Lithuania
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Luxembourg,2019,8.2,Luxembourg
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Riga,2019,9.0,Latvia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Valletta,2019,26.4,Malta
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Amsterdam,2019,8.5,Netherlands
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Oslo,2019,5.5,Norway
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Warsaw,2019,12.1,Poland
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Lisbon,2019,23.2,Portugal
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Bucharest,2019,23.2,Romania
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Stockholm,2019,8.0,Sweden
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Ljubljana,2019,9.4,Slovenia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Bratislava,2019,33.9,Slovakia
+PS1054V,Green spaces such as public parcs or gardens: rather unsatisfied,Ankara,2019,14.5,Türkiye
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Vienna,2019,2.0,Austria
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Brussels,2019,5.7,Belgium
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Sofia,2019,10.5,Bulgaria
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Nicosia,2019,19.3,Cyprus
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Prague,2019,4.5,Czechia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Berlin,2019,3.2,Germany
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Copenhagen,2019,1.9,Denmark
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Tallinn,2019,2.6,Estonia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Athens,2019,40.7,Greece
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Madrid,2019,13.6,Spain
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Paris,2019,3.2,France
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Zagreb,2019,5.2,Croatia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Budapest,2019,8.2,Hungary
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Dublin,2019,4.1,Ireland
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Reykjavík,2019,3.4,Iceland
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Rome,2019,16.1,Italy
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Vilnius,2019,2.7,Lithuania
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Luxembourg,2019,2.1,Luxembourg
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Riga,2019,4.0,Latvia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Valletta,2019,29.0,Malta
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Amsterdam,2019,2.9,Netherlands
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Oslo,2019,0.9,Norway
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Warsaw,2019,3.3,Poland
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Lisbon,2019,6.0,Portugal
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Bucharest,2019,13.0,Romania
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Stockholm,2019,1.3,Sweden
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Ljubljana,2019,3.7,Slovenia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Bratislava,2019,10.5,Slovakia
+PS1055V,Green spaces such as public parcs or gardens: not at all satisfied,Ankara,2019,8.4,Türkiye
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Vienna,2019,0.5,Austria
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Brussels,2019,0.9,Belgium
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Sofia,2019,2.2,Bulgaria
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Nicosia,2019,1.4,Cyprus
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Prague,2019,0.7,Czechia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Berlin,2019,0.6,Germany
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Copenhagen,2019,1.7,Denmark
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Tallinn,2019,2.8,Estonia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Athens,2019,0.4,Greece
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Madrid,2019,0.8,Spain
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Paris,2019,0.9,France
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Zagreb,2019,0.6,Croatia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Budapest,2019,1.2,Hungary
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Dublin,2019,0.6,Ireland
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Reykjavík,2019,7.2,Iceland
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Rome,2019,1.0,Italy
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Vilnius,2019,2.5,Lithuania
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Luxembourg,2019,1.3,Luxembourg
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Riga,2019,2.3,Latvia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Valletta,2019,1.6,Malta
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Amsterdam,2019,1.0,Netherlands
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Oslo,2019,0.6,Norway
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Warsaw,2019,1.3,Poland
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Lisbon,2019,3.7,Portugal
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Bucharest,2019,2.4,Romania
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Stockholm,2019,0.1,Sweden
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Ljubljana,2019,0.1,Slovenia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Bratislava,2019,1.2,Slovakia
+PS1056V,Green spaces such as public parcs or gardens: don't know/no answer,Ankara,2019,0.8,Türkiye
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Vienna,2019,39.8,Austria
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Brussels,2019,15.7,Belgium
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Sofia,2019,10.8,Bulgaria
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Nicosia,2019,16.1,Cyprus
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Prague,2019,21.7,Czechia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Berlin,2019,19.0,Germany
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Copenhagen,2019,38.0,Denmark
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Tallinn,2019,19.9,Estonia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Athens,2019,7.6,Greece
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Madrid,2019,20.9,Spain
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Paris,2019,19.8,France
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Zagreb,2019,26.4,Croatia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Budapest,2019,18.8,Hungary
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Dublin,2019,28.8,Ireland
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Reykjavík,2019,23.4,Iceland
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Rome,2019,9.3,Italy
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Vilnius,2019,21.1,Lithuania
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Luxembourg,2019,34.8,Luxembourg
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Riga,2019,18.7,Latvia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Valletta,2019,14.2,Malta
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Amsterdam,2019,28.0,Netherlands
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Oslo,2019,20.1,Norway
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Warsaw,2019,14.9,Poland
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Lisbon,2019,12.5,Portugal
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Bucharest,2019,9.3,Romania
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Stockholm,2019,27.7,Sweden
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Ljubljana,2019,38.7,Slovenia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Bratislava,2019,10.7,Slovakia
+PS3062V,"Public spaces in this city such as markets, squares, pedestrian areas: very satisfied",Ankara,2019,31.7,Türkiye
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Vienna,2019,47.5,Austria
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Brussels,2019,62.7,Belgium
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Sofia,2019,46.1,Bulgaria
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Nicosia,2019,39.7,Cyprus
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Prague,2019,59.4,Czechia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Berlin,2019,60.8,Germany
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Copenhagen,2019,42.3,Denmark
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Tallinn,2019,58.8,Estonia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Athens,2019,26.8,Greece
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Madrid,2019,48.8,Spain
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Paris,2019,60.7,France
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Zagreb,2019,54.3,Croatia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Budapest,2019,60.1,Hungary
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Dublin,2019,45.7,Ireland
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Reykjavík,2019,51.2,Iceland
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Rome,2019,44.1,Italy
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Vilnius,2019,61.8,Lithuania
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Luxembourg,2019,52.8,Luxembourg
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Riga,2019,56.5,Latvia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Valletta,2019,27.9,Malta
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Amsterdam,2019,58.4,Netherlands
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Oslo,2019,59.7,Norway
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Warsaw,2019,58.5,Poland
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Lisbon,2019,59.6,Portugal
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Bucharest,2019,45.4,Romania
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Stockholm,2019,58.4,Sweden
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Ljubljana,2019,45.4,Slovenia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Bratislava,2019,56.4,Slovakia
+PS3063V,"Public spaces in this city such as markets, squares, pedestrian areas: rather satisfied",Ankara,2019,38.9,Türkiye
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Vienna,2019,8.6,Austria
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Brussels,2019,12.6,Belgium
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Sofia,2019,28.5,Bulgaria
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Nicosia,2019,23.8,Cyprus
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Prague,2019,13.0,Czechia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Berlin,2019,17.0,Germany
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Copenhagen,2019,11.4,Denmark
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Tallinn,2019,14.8,Estonia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Athens,2019,34.4,Greece
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Madrid,2019,18.2,Spain
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Paris,2019,14.5,France
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Zagreb,2019,12.7,Croatia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Budapest,2019,16.1,Hungary
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Dublin,2019,17.6,Ireland
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Reykjavík,2019,14.8,Iceland
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Rome,2019,32.5,Italy
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Vilnius,2019,13.9,Lithuania
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Luxembourg,2019,7.3,Luxembourg
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Riga,2019,16.0,Latvia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Valletta,2019,29.2,Malta
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Amsterdam,2019,9.7,Netherlands
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Oslo,2019,14.0,Norway
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Warsaw,2019,20.7,Poland
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Lisbon,2019,19.8,Portugal
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Bucharest,2019,29.9,Romania
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Stockholm,2019,9.2,Sweden
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Ljubljana,2019,10.1,Slovenia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Bratislava,2019,25.1,Slovakia
+PS3064V,"Public spaces in this city such as markets, squares, pedestrian areas: rather unsatisfied",Ankara,2019,14.9,Türkiye
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Vienna,2019,1.7,Austria
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Brussels,2019,6.8,Belgium
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Sofia,2019,10.1,Bulgaria
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Nicosia,2019,18.7,Cyprus
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Prague,2019,3.9,Czechia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Berlin,2019,3.0,Germany
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Copenhagen,2019,3.3,Denmark
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Tallinn,2019,2.7,Estonia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Athens,2019,30.3,Greece
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Madrid,2019,9.8,Spain
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Paris,2019,3.6,France
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Zagreb,2019,4.9,Croatia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Budapest,2019,3.7,Hungary
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Dublin,2019,5.9,Ireland
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Reykjavík,2019,4.8,Iceland
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Rome,2019,13.5,Italy
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Vilnius,2019,2.2,Lithuania
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Luxembourg,2019,2.4,Luxembourg
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Riga,2019,5.4,Latvia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Valletta,2019,24.3,Malta
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Amsterdam,2019,2.5,Netherlands
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Oslo,2019,3.3,Norway
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Warsaw,2019,4.2,Poland
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Lisbon,2019,6.4,Portugal
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Bucharest,2019,13.8,Romania
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Stockholm,2019,2.0,Sweden
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Ljubljana,2019,4.5,Slovenia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Bratislava,2019,3.9,Slovakia
+PS3065V,"Public spaces in this city such as markets, squares, pedestrian areas: not at all satisfied",Ankara,2019,13.1,Türkiye
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Vienna,2019,2.5,Austria
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Brussels,2019,2.2,Belgium
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Sofia,2019,4.5,Bulgaria
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Nicosia,2019,1.6,Cyprus
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Prague,2019,2.0,Czechia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Berlin,2019,0.3,Germany
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Copenhagen,2019,5.0,Denmark
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Tallinn,2019,3.8,Estonia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Athens,2019,0.8,Greece
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Madrid,2019,2.2,Spain
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Paris,2019,1.4,France
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Zagreb,2019,1.6,Croatia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Budapest,2019,1.3,Hungary
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Dublin,2019,2.0,Ireland
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Reykjavík,2019,5.8,Iceland
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Rome,2019,0.6,Italy
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Vilnius,2019,1.1,Lithuania
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Luxembourg,2019,2.7,Luxembourg
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Riga,2019,3.4,Latvia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Valletta,2019,4.5,Malta
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Amsterdam,2019,1.5,Netherlands
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Oslo,2019,2.9,Norway
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Warsaw,2019,1.7,Poland
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Lisbon,2019,1.6,Portugal
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Bucharest,2019,1.5,Romania
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Stockholm,2019,2.8,Sweden
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Ljubljana,2019,1.3,Slovenia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Bratislava,2019,3.9,Slovakia
+PS3066V,"Public spaces in this city such as markets, squares, pedestrian areas: don't know/no answer",Ankara,2019,1.5,Türkiye
+PS3260V,The quality of the air in the city: very satisfied,Vienna,2019,36.5,Austria
+PS3260V,The quality of the air in the city: very satisfied,Brussels,2019,7.3,Belgium
+PS3260V,The quality of the air in the city: very satisfied,Sofia,2019,3.6,Bulgaria
+PS3260V,The quality of the air in the city: very satisfied,Nicosia,2019,17.4,Cyprus
+PS3260V,The quality of the air in the city: very satisfied,Prague,2019,12.6,Czechia
+PS3260V,The quality of the air in the city: very satisfied,Berlin,2019,13.8,Germany
+PS3260V,The quality of the air in the city: very satisfied,Copenhagen,2019,21.2,Denmark
+PS3260V,The quality of the air in the city: very satisfied,Tallinn,2019,24.0,Estonia
+PS3260V,The quality of the air in the city: very satisfied,Athens,2019,4.5,Greece
+PS3260V,The quality of the air in the city: very satisfied,Madrid,2019,8.6,Spain
+PS3260V,The quality of the air in the city: very satisfied,Paris,2019,5.7,France
+PS3260V,The quality of the air in the city: very satisfied,Zagreb,2019,21.4,Croatia
+PS3260V,The quality of the air in the city: very satisfied,Budapest,2019,11.4,Hungary
+PS3260V,The quality of the air in the city: very satisfied,Dublin,2019,33.5,Ireland
+PS3260V,The quality of the air in the city: very satisfied,Reykjavík,2019,35.4,Iceland
+PS3260V,The quality of the air in the city: very satisfied,Rome,2019,5.4,Italy
+PS3260V,The quality of the air in the city: very satisfied,Vilnius,2019,18.9,Lithuania
+PS3260V,The quality of the air in the city: very satisfied,Luxembourg,2019,25.5,Luxembourg
+PS3260V,The quality of the air in the city: very satisfied,Riga,2019,17.8,Latvia
+PS3260V,The quality of the air in the city: very satisfied,Valletta,2019,12.0,Malta
+PS3260V,The quality of the air in the city: very satisfied,Amsterdam,2019,14.3,Netherlands
+PS3260V,The quality of the air in the city: very satisfied,Oslo,2019,20.8,Norway
+PS3260V,The quality of the air in the city: very satisfied,Warsaw,2019,6.1,Poland
+PS3260V,The quality of the air in the city: very satisfied,Lisbon,2019,7.1,Portugal
+PS3260V,The quality of the air in the city: very satisfied,Bucharest,2019,2.9,Romania
+PS3260V,The quality of the air in the city: very satisfied,Stockholm,2019,26.3,Sweden
+PS3260V,The quality of the air in the city: very satisfied,Ljubljana,2019,24.9,Slovenia
+PS3260V,The quality of the air in the city: very satisfied,Bratislava,2019,10.9,Slovakia
+PS3260V,The quality of the air in the city: very satisfied,Ankara,2019,34.7,Türkiye
+PS3261V,The quality of the air in the city: rather satisfied,Vienna,2019,47.8,Austria
+PS3261V,The quality of the air in the city: rather satisfied,Brussels,2019,43.1,Belgium
+PS3261V,The quality of the air in the city: rather satisfied,Sofia,2019,22.0,Bulgaria
+PS3261V,The quality of the air in the city: rather satisfied,Nicosia,2019,45.0,Cyprus
+PS3261V,The quality of the air in the city: rather satisfied,Prague,2019,47.2,Czechia
+PS3261V,The quality of the air in the city: rather satisfied,Berlin,2019,56.4,Germany
+PS3261V,The quality of the air in the city: rather satisfied,Copenhagen,2019,44.9,Denmark
+PS3261V,The quality of the air in the city: rather satisfied,Tallinn,2019,52.8,Estonia
+PS3261V,The quality of the air in the city: rather satisfied,Athens,2019,23.4,Greece
+PS3261V,The quality of the air in the city: rather satisfied,Madrid,2019,23.3,Spain
+PS3261V,The quality of the air in the city: rather satisfied,Paris,2019,23.6,France
+PS3261V,The quality of the air in the city: rather satisfied,Zagreb,2019,46.6,Croatia
+PS3261V,The quality of the air in the city: rather satisfied,Budapest,2019,37.3,Hungary
+PS3261V,The quality of the air in the city: rather satisfied,Dublin,2019,50.0,Ireland
+PS3261V,The quality of the air in the city: rather satisfied,Reykjavík,2019,43.5,Iceland
+PS3261V,The quality of the air in the city: rather satisfied,Rome,2019,26.2,Italy
+PS3261V,The quality of the air in the city: rather satisfied,Vilnius,2019,52.3,Lithuania
+PS3261V,The quality of the air in the city: rather satisfied,Luxembourg,2019,54.6,Luxembourg
+PS3261V,The quality of the air in the city: rather satisfied,Riga,2019,50.4,Latvia
+PS3261V,The quality of the air in the city: rather satisfied,Valletta,2019,22.4,Malta
+PS3261V,The quality of the air in the city: rather satisfied,Amsterdam,2019,52.1,Netherlands
+PS3261V,The quality of the air in the city: rather satisfied,Oslo,2019,54.6,Norway
+PS3261V,The quality of the air in the city: rather satisfied,Warsaw,2019,41.3,Poland
+PS3261V,The quality of the air in the city: rather satisfied,Lisbon,2019,44.9,Portugal
+PS3261V,The quality of the air in the city: rather satisfied,Bucharest,2019,16.8,Romania
+PS3261V,The quality of the air in the city: rather satisfied,Stockholm,2019,51.3,Sweden
+PS3261V,The quality of the air in the city: rather satisfied,Ljubljana,2019,49.4,Slovenia
+PS3261V,The quality of the air in the city: rather satisfied,Bratislava,2019,41.7,Slovakia
+PS3261V,The quality of the air in the city: rather satisfied,Ankara,2019,37.7,Türkiye
+PS3262V,The quality of the air in the city: rather unsatisfied,Vienna,2019,11.9,Austria
+PS3262V,The quality of the air in the city: rather unsatisfied,Brussels,2019,31.1,Belgium
+PS3262V,The quality of the air in the city: rather unsatisfied,Sofia,2019,37.0,Bulgaria
+PS3262V,The quality of the air in the city: rather unsatisfied,Nicosia,2019,21.2,Cyprus
+PS3262V,The quality of the air in the city: rather unsatisfied,Prague,2019,28.6,Czechia
+PS3262V,The quality of the air in the city: rather unsatisfied,Berlin,2019,22.5,Germany
+PS3262V,The quality of the air in the city: rather unsatisfied,Copenhagen,2019,21.6,Denmark
+PS3262V,The quality of the air in the city: rather unsatisfied,Tallinn,2019,15.1,Estonia
+PS3262V,The quality of the air in the city: rather unsatisfied,Athens,2019,31.4,Greece
+PS3262V,The quality of the air in the city: rather unsatisfied,Madrid,2019,31.9,Spain
+PS3262V,The quality of the air in the city: rather unsatisfied,Paris,2019,39.4,France
+PS3262V,The quality of the air in the city: rather unsatisfied,Zagreb,2019,22.1,Croatia
+PS3262V,The quality of the air in the city: rather unsatisfied,Budapest,2019,35.7,Hungary
+PS3262V,The quality of the air in the city: rather unsatisfied,Dublin,2019,7.9,Ireland
+PS3262V,The quality of the air in the city: rather unsatisfied,Reykjavík,2019,13.5,Iceland
+PS3262V,The quality of the air in the city: rather unsatisfied,Rome,2019,42.6,Italy
+PS3262V,The quality of the air in the city: rather unsatisfied,Vilnius,2019,21.9,Lithuania
+PS3262V,The quality of the air in the city: rather unsatisfied,Luxembourg,2019,14.2,Luxembourg
+PS3262V,The quality of the air in the city: rather unsatisfied,Riga,2019,22.6,Latvia
+PS3262V,The quality of the air in the city: rather unsatisfied,Valletta,2019,32.0,Malta
+PS3262V,The quality of the air in the city: rather unsatisfied,Amsterdam,2019,19.8,Netherlands
+PS3262V,The quality of the air in the city: rather unsatisfied,Oslo,2019,20.7,Norway
+PS3262V,The quality of the air in the city: rather unsatisfied,Warsaw,2019,35.5,Poland
+PS3262V,The quality of the air in the city: rather unsatisfied,Lisbon,2019,35.0,Portugal
+PS3262V,The quality of the air in the city: rather unsatisfied,Bucharest,2019,38.5,Romania
+PS3262V,The quality of the air in the city: rather unsatisfied,Stockholm,2019,14.5,Sweden
+PS3262V,The quality of the air in the city: rather unsatisfied,Ljubljana,2019,18.1,Slovenia
+PS3262V,The quality of the air in the city: rather unsatisfied,Bratislava,2019,34.9,Slovakia
+PS3262V,The quality of the air in the city: rather unsatisfied,Ankara,2019,17.0,Türkiye
+PS3263V,The quality of the air in the city: not at all satisfied,Vienna,2019,3.1,Austria
+PS3263V,The quality of the air in the city: not at all satisfied,Brussels,2019,17.5,Belgium
+PS3263V,The quality of the air in the city: not at all satisfied,Sofia,2019,33.3,Bulgaria
+PS3263V,The quality of the air in the city: not at all satisfied,Nicosia,2019,12.4,Cyprus
+PS3263V,The quality of the air in the city: not at all satisfied,Prague,2019,9.7,Czechia
+PS3263V,The quality of the air in the city: not at all satisfied,Berlin,2019,5.3,Germany
+PS3263V,The quality of the air in the city: not at all satisfied,Copenhagen,2019,8.4,Denmark
+PS3263V,The quality of the air in the city: not at all satisfied,Tallinn,2019,6.4,Estonia
+PS3263V,The quality of the air in the city: not at all satisfied,Athens,2019,39.4,Greece
+PS3263V,The quality of the air in the city: not at all satisfied,Madrid,2019,33.5,Spain
+PS3263V,The quality of the air in the city: not at all satisfied,Paris,2019,29.9,France
+PS3263V,The quality of the air in the city: not at all satisfied,Zagreb,2019,7.2,Croatia
+PS3263V,The quality of the air in the city: not at all satisfied,Budapest,2019,15.1,Hungary
+PS3263V,The quality of the air in the city: not at all satisfied,Dublin,2019,7.4,Ireland
+PS3263V,The quality of the air in the city: not at all satisfied,Reykjavík,2019,3.8,Iceland
+PS3263V,The quality of the air in the city: not at all satisfied,Rome,2019,25.0,Italy
+PS3263V,The quality of the air in the city: not at all satisfied,Vilnius,2019,4.4,Lithuania
+PS3263V,The quality of the air in the city: not at all satisfied,Luxembourg,2019,4.1,Luxembourg
+PS3263V,The quality of the air in the city: not at all satisfied,Riga,2019,7.3,Latvia
+PS3263V,The quality of the air in the city: not at all satisfied,Valletta,2019,32.7,Malta
+PS3263V,The quality of the air in the city: not at all satisfied,Amsterdam,2019,8.8,Netherlands
+PS3263V,The quality of the air in the city: not at all satisfied,Oslo,2019,2.3,Norway
+PS3263V,The quality of the air in the city: not at all satisfied,Warsaw,2019,14.0,Poland
+PS3263V,The quality of the air in the city: not at all satisfied,Lisbon,2019,8.3,Portugal
+PS3263V,The quality of the air in the city: not at all satisfied,Bucharest,2019,40.9,Romania
+PS3263V,The quality of the air in the city: not at all satisfied,Stockholm,2019,5.9,Sweden
+PS3263V,The quality of the air in the city: not at all satisfied,Ljubljana,2019,6.1,Slovenia
+PS3263V,The quality of the air in the city: not at all satisfied,Bratislava,2019,8.7,Slovakia
+PS3263V,The quality of the air in the city: not at all satisfied,Ankara,2019,9.5,Türkiye
+PS3264V,The quality of the air in the city: don't know/no answer,Vienna,2019,0.6,Austria
+PS3264V,The quality of the air in the city: don't know/no answer,Brussels,2019,1.0,Belgium
+PS3264V,The quality of the air in the city: don't know/no answer,Sofia,2019,4.1,Bulgaria
+PS3264V,The quality of the air in the city: don't know/no answer,Nicosia,2019,4.0,Cyprus
+PS3264V,The quality of the air in the city: don't know/no answer,Prague,2019,1.9,Czechia
+PS3264V,The quality of the air in the city: don't know/no answer,Berlin,2019,2.0,Germany
+PS3264V,The quality of the air in the city: don't know/no answer,Copenhagen,2019,4.0,Denmark
+PS3264V,The quality of the air in the city: don't know/no answer,Tallinn,2019,1.6,Estonia
+PS3264V,The quality of the air in the city: don't know/no answer,Athens,2019,1.2,Greece
+PS3264V,The quality of the air in the city: don't know/no answer,Madrid,2019,2.7,Spain
+PS3264V,The quality of the air in the city: don't know/no answer,Paris,2019,1.4,France
+PS3264V,The quality of the air in the city: don't know/no answer,Zagreb,2019,2.7,Croatia
+PS3264V,The quality of the air in the city: don't know/no answer,Budapest,2019,0.5,Hungary
+PS3264V,The quality of the air in the city: don't know/no answer,Dublin,2019,1.2,Ireland
+PS3264V,The quality of the air in the city: don't know/no answer,Reykjavík,2019,3.9,Iceland
+PS3264V,The quality of the air in the city: don't know/no answer,Rome,2019,0.8,Italy
+PS3264V,The quality of the air in the city: don't know/no answer,Vilnius,2019,2.4,Lithuania
+PS3264V,The quality of the air in the city: don't know/no answer,Luxembourg,2019,1.6,Luxembourg
+PS3264V,The quality of the air in the city: don't know/no answer,Riga,2019,1.9,Latvia
+PS3264V,The quality of the air in the city: don't know/no answer,Valletta,2019,0.8,Malta
+PS3264V,The quality of the air in the city: don't know/no answer,Amsterdam,2019,5.1,Netherlands
+PS3264V,The quality of the air in the city: don't know/no answer,Oslo,2019,1.5,Norway
+PS3264V,The quality of the air in the city: don't know/no answer,Warsaw,2019,3.1,Poland
+PS3264V,The quality of the air in the city: don't know/no answer,Lisbon,2019,4.7,Portugal
+PS3264V,The quality of the air in the city: don't know/no answer,Bucharest,2019,0.9,Romania
+PS3264V,The quality of the air in the city: don't know/no answer,Stockholm,2019,2.0,Sweden
+PS3264V,The quality of the air in the city: don't know/no answer,Ljubljana,2019,1.5,Slovenia
+PS3264V,The quality of the air in the city: don't know/no answer,Bratislava,2019,3.8,Slovakia
+PS3264V,The quality of the air in the city: don't know/no answer,Ankara,2019,1.1,Türkiye
+PS3280V,The cleanliness in the city: very satisfied,Vienna,2019,37.9,Austria
+PS3280V,The cleanliness in the city: very satisfied,Brussels,2019,10.5,Belgium
+PS3280V,The cleanliness in the city: very satisfied,Sofia,2019,6.0,Bulgaria
+PS3280V,The cleanliness in the city: very satisfied,Nicosia,2019,16.8,Cyprus
+PS3280V,The cleanliness in the city: very satisfied,Prague,2019,12.0,Czechia
+PS3280V,The cleanliness in the city: very satisfied,Berlin,2019,8.6,Germany
+PS3280V,The cleanliness in the city: very satisfied,Copenhagen,2019,22.7,Denmark
+PS3280V,The cleanliness in the city: very satisfied,Tallinn,2019,20.6,Estonia
+PS3280V,The cleanliness in the city: very satisfied,Athens,2019,5.3,Greece
+PS3280V,The cleanliness in the city: very satisfied,Madrid,2019,10.0,Spain
+PS3280V,The cleanliness in the city: very satisfied,Paris,2019,7.2,France
+PS3280V,The cleanliness in the city: very satisfied,Zagreb,2019,19.2,Croatia
+PS3280V,The cleanliness in the city: very satisfied,Budapest,2019,5.5,Hungary
+PS3280V,The cleanliness in the city: very satisfied,Dublin,2019,16.4,Ireland
+PS3280V,The cleanliness in the city: very satisfied,Reykjavík,2019,21.3,Iceland
+PS3280V,The cleanliness in the city: very satisfied,Rome,2019,2.4,Italy
+PS3280V,The cleanliness in the city: very satisfied,Vilnius,2019,18.1,Lithuania
+PS3280V,The cleanliness in the city: very satisfied,Luxembourg,2019,46.8,Luxembourg
+PS3280V,The cleanliness in the city: very satisfied,Riga,2019,17.5,Latvia
+PS3280V,The cleanliness in the city: very satisfied,Valletta,2019,16.5,Malta
+PS3280V,The cleanliness in the city: very satisfied,Amsterdam,2019,14.0,Netherlands
+PS3280V,The cleanliness in the city: very satisfied,Oslo,2019,16.1,Norway
+PS3280V,The cleanliness in the city: very satisfied,Warsaw,2019,10.7,Poland
+PS3280V,The cleanliness in the city: very satisfied,Lisbon,2019,6.2,Portugal
+PS3280V,The cleanliness in the city: very satisfied,Bucharest,2019,7.4,Romania
+PS3280V,The cleanliness in the city: very satisfied,Stockholm,2019,19.8,Sweden
+PS3280V,The cleanliness in the city: very satisfied,Ljubljana,2019,33.4,Slovenia
+PS3280V,The cleanliness in the city: very satisfied,Bratislava,2019,3.3,Slovakia
+PS3280V,The cleanliness in the city: very satisfied,Ankara,2019,32.6,Türkiye
+PS3281V,The cleanliness in the city: rather satisfied,Vienna,2019,48.8,Austria
+PS3281V,The cleanliness in the city: rather satisfied,Brussels,2019,30.4,Belgium
+PS3281V,The cleanliness in the city: rather satisfied,Sofia,2019,27.7,Bulgaria
+PS3281V,The cleanliness in the city: rather satisfied,Nicosia,2019,45.3,Cyprus
+PS3281V,The cleanliness in the city: rather satisfied,Prague,2019,44.9,Czechia
+PS3281V,The cleanliness in the city: rather satisfied,Berlin,2019,39.4,Germany
+PS3281V,The cleanliness in the city: rather satisfied,Copenhagen,2019,48.1,Denmark
+PS3281V,The cleanliness in the city: rather satisfied,Tallinn,2019,58.2,Estonia
+PS3281V,The cleanliness in the city: rather satisfied,Athens,2019,24.8,Greece
+PS3281V,The cleanliness in the city: rather satisfied,Madrid,2019,28.3,Spain
+PS3281V,The cleanliness in the city: rather satisfied,Paris,2019,35.5,France
+PS3281V,The cleanliness in the city: rather satisfied,Zagreb,2019,49.6,Croatia
+PS3281V,The cleanliness in the city: rather satisfied,Budapest,2019,37.5,Hungary
+PS3281V,The cleanliness in the city: rather satisfied,Dublin,2019,46.0,Ireland
+PS3281V,The cleanliness in the city: rather satisfied,Reykjavík,2019,49.9,Iceland
+PS3281V,The cleanliness in the city: rather satisfied,Rome,2019,5.8,Italy
+PS3281V,The cleanliness in the city: rather satisfied,Vilnius,2019,59.9,Lithuania
+PS3281V,The cleanliness in the city: rather satisfied,Luxembourg,2019,46.9,Luxembourg
+PS3281V,The cleanliness in the city: rather satisfied,Riga,2019,56.3,Latvia
+PS3281V,The cleanliness in the city: rather satisfied,Valletta,2019,37.4,Malta
+PS3281V,The cleanliness in the city: rather satisfied,Amsterdam,2019,49.0,Netherlands
+PS3281V,The cleanliness in the city: rather satisfied,Oslo,2019,54.1,Norway
+PS3281V,The cleanliness in the city: rather satisfied,Warsaw,2019,55.4,Poland
+PS3281V,The cleanliness in the city: rather satisfied,Lisbon,2019,35.5,Portugal
+PS3281V,The cleanliness in the city: rather satisfied,Bucharest,2019,29.5,Romania
+PS3281V,The cleanliness in the city: rather satisfied,Stockholm,2019,51.0,Sweden
+PS3281V,The cleanliness in the city: rather satisfied,Ljubljana,2019,52.1,Slovenia
+PS3281V,The cleanliness in the city: rather satisfied,Bratislava,2019,27.7,Slovakia
+PS3281V,The cleanliness in the city: rather satisfied,Ankara,2019,41.8,Türkiye
+PS3282V,The cleanliness in the city: rather unsatisfied,Vienna,2019,11.5,Austria
+PS3282V,The cleanliness in the city: rather unsatisfied,Brussels,2019,33.2,Belgium
+PS3282V,The cleanliness in the city: rather unsatisfied,Sofia,2019,42.0,Bulgaria
+PS3282V,The cleanliness in the city: rather unsatisfied,Nicosia,2019,20.0,Cyprus
+PS3282V,The cleanliness in the city: rather unsatisfied,Prague,2019,33.8,Czechia
+PS3282V,The cleanliness in the city: rather unsatisfied,Berlin,2019,37.9,Germany
+PS3282V,The cleanliness in the city: rather unsatisfied,Copenhagen,2019,23.4,Denmark
+PS3282V,The cleanliness in the city: rather unsatisfied,Tallinn,2019,18.0,Estonia
+PS3282V,The cleanliness in the city: rather unsatisfied,Athens,2019,30.0,Greece
+PS3282V,The cleanliness in the city: rather unsatisfied,Madrid,2019,30.3,Spain
+PS3282V,The cleanliness in the city: rather unsatisfied,Paris,2019,35.1,France
+PS3282V,The cleanliness in the city: rather unsatisfied,Zagreb,2019,21.0,Croatia
+PS3282V,The cleanliness in the city: rather unsatisfied,Budapest,2019,39.9,Hungary
+PS3282V,The cleanliness in the city: rather unsatisfied,Dublin,2019,24.4,Ireland
+PS3282V,The cleanliness in the city: rather unsatisfied,Reykjavík,2019,20.0,Iceland
+PS3282V,The cleanliness in the city: rather unsatisfied,Rome,2019,35.2,Italy
+PS3282V,The cleanliness in the city: rather unsatisfied,Vilnius,2019,16.0,Lithuania
+PS3282V,The cleanliness in the city: rather unsatisfied,Luxembourg,2019,4.7,Luxembourg
+PS3282V,The cleanliness in the city: rather unsatisfied,Riga,2019,20.2,Latvia
+PS3282V,The cleanliness in the city: rather unsatisfied,Valletta,2019,27.7,Malta
+PS3282V,The cleanliness in the city: rather unsatisfied,Amsterdam,2019,27.0,Netherlands
+PS3282V,The cleanliness in the city: rather unsatisfied,Oslo,2019,24.7,Norway
+PS3282V,The cleanliness in the city: rather unsatisfied,Warsaw,2019,27.8,Poland
+PS3282V,The cleanliness in the city: rather unsatisfied,Lisbon,2019,38.7,Portugal
+PS3282V,The cleanliness in the city: rather unsatisfied,Bucharest,2019,36.2,Romania
+PS3282V,The cleanliness in the city: rather unsatisfied,Stockholm,2019,21.3,Sweden
+PS3282V,The cleanliness in the city: rather unsatisfied,Ljubljana,2019,12.1,Slovenia
+PS3282V,The cleanliness in the city: rather unsatisfied,Bratislava,2019,50.3,Slovakia
+PS3282V,The cleanliness in the city: rather unsatisfied,Ankara,2019,17.2,Türkiye
+PS3283V,The cleanliness in the city: not at all satisfied,Vienna,2019,1.5,Austria
+PS3283V,The cleanliness in the city: not at all satisfied,Brussels,2019,25.1,Belgium
+PS3283V,The cleanliness in the city: not at all satisfied,Sofia,2019,23.3,Bulgaria
+PS3283V,The cleanliness in the city: not at all satisfied,Nicosia,2019,16.9,Cyprus
+PS3283V,The cleanliness in the city: not at all satisfied,Prague,2019,8.3,Czechia
+PS3283V,The cleanliness in the city: not at all satisfied,Berlin,2019,12.8,Germany
+PS3283V,The cleanliness in the city: not at all satisfied,Copenhagen,2019,4.8,Denmark
+PS3283V,The cleanliness in the city: not at all satisfied,Tallinn,2019,2.2,Estonia
+PS3283V,The cleanliness in the city: not at all satisfied,Athens,2019,39.7,Greece
+PS3283V,The cleanliness in the city: not at all satisfied,Madrid,2019,31.4,Spain
+PS3283V,The cleanliness in the city: not at all satisfied,Paris,2019,22.2,France
+PS3283V,The cleanliness in the city: not at all satisfied,Zagreb,2019,8.4,Croatia
+PS3283V,The cleanliness in the city: not at all satisfied,Budapest,2019,16.9,Hungary
+PS3283V,The cleanliness in the city: not at all satisfied,Dublin,2019,12.3,Ireland
+PS3283V,The cleanliness in the city: not at all satisfied,Reykjavík,2019,7.2,Iceland
+PS3283V,The cleanliness in the city: not at all satisfied,Rome,2019,55.9,Italy
+PS3283V,The cleanliness in the city: not at all satisfied,Vilnius,2019,5.2,Lithuania
+PS3283V,The cleanliness in the city: not at all satisfied,Luxembourg,2019,1.5,Luxembourg
+PS3283V,The cleanliness in the city: not at all satisfied,Riga,2019,5.3,Latvia
+PS3283V,The cleanliness in the city: not at all satisfied,Valletta,2019,17.7,Malta
+PS3283V,The cleanliness in the city: not at all satisfied,Amsterdam,2019,8.6,Netherlands
+PS3283V,The cleanliness in the city: not at all satisfied,Oslo,2019,4.2,Norway
+PS3283V,The cleanliness in the city: not at all satisfied,Warsaw,2019,4.7,Poland
+PS3283V,The cleanliness in the city: not at all satisfied,Lisbon,2019,18.0,Portugal
+PS3283V,The cleanliness in the city: not at all satisfied,Bucharest,2019,25.5,Romania
+PS3283V,The cleanliness in the city: not at all satisfied,Stockholm,2019,6.9,Sweden
+PS3283V,The cleanliness in the city: not at all satisfied,Ljubljana,2019,2.0,Slovenia
+PS3283V,The cleanliness in the city: not at all satisfied,Bratislava,2019,17.6,Slovakia
+PS3283V,The cleanliness in the city: not at all satisfied,Ankara,2019,7.9,Türkiye
+PS3284V,The cleanliness in the city: don't know/no answer,Vienna,2019,0.3,Austria
+PS3284V,The cleanliness in the city: don't know/no answer,Brussels,2019,0.8,Belgium
+PS3284V,The cleanliness in the city: don't know/no answer,Sofia,2019,0.9,Bulgaria
+PS3284V,The cleanliness in the city: don't know/no answer,Nicosia,2019,1.0,Cyprus
+PS3284V,The cleanliness in the city: don't know/no answer,Prague,2019,1.0,Czechia
+PS3284V,The cleanliness in the city: don't know/no answer,Berlin,2019,1.3,Germany
+PS3284V,The cleanliness in the city: don't know/no answer,Copenhagen,2019,0.9,Denmark
+PS3284V,The cleanliness in the city: don't know/no answer,Tallinn,2019,1.1,Estonia
+PS3284V,The cleanliness in the city: don't know/no answer,Athens,2019,0.2,Greece
+PS3284V,The cleanliness in the city: don't know/no answer,Madrid,2019,0.1,Spain
+PS3284V,The cleanliness in the city: don't know/no answer,Paris,2019,0.0,France
+PS3284V,The cleanliness in the city: don't know/no answer,Zagreb,2019,1.8,Croatia
+PS3284V,The cleanliness in the city: don't know/no answer,Budapest,2019,0.3,Hungary
+PS3284V,The cleanliness in the city: don't know/no answer,Dublin,2019,0.9,Ireland
+PS3284V,The cleanliness in the city: don't know/no answer,Reykjavík,2019,1.6,Iceland
+PS3284V,The cleanliness in the city: don't know/no answer,Rome,2019,0.6,Italy
+PS3284V,The cleanliness in the city: don't know/no answer,Vilnius,2019,0.9,Lithuania
+PS3284V,The cleanliness in the city: don't know/no answer,Luxembourg,2019,0.0,Luxembourg
+PS3284V,The cleanliness in the city: don't know/no answer,Riga,2019,0.8,Latvia
+PS3284V,The cleanliness in the city: don't know/no answer,Valletta,2019,0.6,Malta
+PS3284V,The cleanliness in the city: don't know/no answer,Amsterdam,2019,1.3,Netherlands
+PS3284V,The cleanliness in the city: don't know/no answer,Oslo,2019,0.9,Norway
+PS3284V,The cleanliness in the city: don't know/no answer,Warsaw,2019,1.4,Poland
+PS3284V,The cleanliness in the city: don't know/no answer,Lisbon,2019,1.6,Portugal
+PS3284V,The cleanliness in the city: don't know/no answer,Bucharest,2019,1.4,Romania
+PS3284V,The cleanliness in the city: don't know/no answer,Stockholm,2019,0.9,Sweden
+PS3284V,The cleanliness in the city: don't know/no answer,Ljubljana,2019,0.3,Slovenia
+PS3284V,The cleanliness in the city: don't know/no answer,Bratislava,2019,1.1,Slovakia
+PS3284V,The cleanliness in the city: don't know/no answer,Ankara,2019,0.6,Türkiye
+PS3350V,The life you lead: very satisfied,Vienna,2019,52.1,Austria
+PS3350V,The life you lead: very satisfied,Brussels,2019,28.0,Belgium
+PS3350V,The life you lead: very satisfied,Sofia,2019,16.5,Bulgaria
+PS3350V,The life you lead: very satisfied,Nicosia,2019,21.9,Cyprus
+PS3350V,The life you lead: very satisfied,Prague,2019,36.5,Czechia
+PS3350V,The life you lead: very satisfied,Berlin,2019,43.1,Germany
+PS3350V,The life you lead: very satisfied,Copenhagen,2019,63.2,Denmark
+PS3350V,The life you lead: very satisfied,Tallinn,2019,28.1,Estonia
+PS3350V,The life you lead: very satisfied,Athens,2019,9.3,Greece
+PS3350V,The life you lead: very satisfied,Madrid,2019,28.6,Spain
+PS3350V,The life you lead: very satisfied,Paris,2019,24.5,France
+PS3350V,The life you lead: very satisfied,Zagreb,2019,34.6,Croatia
+PS3350V,The life you lead: very satisfied,Budapest,2019,16.6,Hungary
+PS3350V,The life you lead: very satisfied,Dublin,2019,45.5,Ireland
+PS3350V,The life you lead: very satisfied,Reykjavík,2019,63.2,Iceland
+PS3350V,The life you lead: very satisfied,Rome,2019,23.3,Italy
+PS3350V,The life you lead: very satisfied,Vilnius,2019,36.3,Lithuania
+PS3350V,The life you lead: very satisfied,Luxembourg,2019,43.8,Luxembourg
+PS3350V,The life you lead: very satisfied,Riga,2019,16.5,Latvia
+PS3350V,The life you lead: very satisfied,Valletta,2019,39.4,Malta
+PS3350V,The life you lead: very satisfied,Amsterdam,2019,52.7,Netherlands
+PS3350V,The life you lead: very satisfied,Oslo,2019,52.6,Norway
+PS3350V,The life you lead: very satisfied,Warsaw,2019,32.0,Poland
+PS3350V,The life you lead: very satisfied,Lisbon,2019,20.5,Portugal
+PS3350V,The life you lead: very satisfied,Bucharest,2019,17.7,Romania
+PS3350V,The life you lead: very satisfied,Stockholm,2019,50.1,Sweden
+PS3350V,The life you lead: very satisfied,Ljubljana,2019,42.1,Slovenia
+PS3350V,The life you lead: very satisfied,Bratislava,2019,33.3,Slovakia
+PS3350V,The life you lead: very satisfied,Ankara,2019,33.5,Türkiye
+PS3351V,The life you lead: fairly satisfied,Vienna,2019,39.1,Austria
+PS3351V,The life you lead: fairly satisfied,Brussels,2019,57.2,Belgium
+PS3351V,The life you lead: fairly satisfied,Sofia,2019,61.8,Bulgaria
+PS3351V,The life you lead: fairly satisfied,Nicosia,2019,57.1,Cyprus
+PS3351V,The life you lead: fairly satisfied,Prague,2019,51.2,Czechia
+PS3351V,The life you lead: fairly satisfied,Berlin,2019,46.5,Germany
+PS3351V,The life you lead: fairly satisfied,Copenhagen,2019,26.2,Denmark
+PS3351V,The life you lead: fairly satisfied,Tallinn,2019,56.3,Estonia
+PS3351V,The life you lead: fairly satisfied,Athens,2019,51.3,Greece
+PS3351V,The life you lead: fairly satisfied,Madrid,2019,55.4,Spain
+PS3351V,The life you lead: fairly satisfied,Paris,2019,60.4,France
+PS3351V,The life you lead: fairly satisfied,Zagreb,2019,51.3,Croatia
+PS3351V,The life you lead: fairly satisfied,Budapest,2019,55.6,Hungary
+PS3351V,The life you lead: fairly satisfied,Dublin,2019,43.0,Ireland
+PS3351V,The life you lead: fairly satisfied,Reykjavík,2019,32.2,Iceland
+PS3351V,The life you lead: fairly satisfied,Rome,2019,58.3,Italy
+PS3351V,The life you lead: fairly satisfied,Vilnius,2019,50.8,Lithuania
+PS3351V,The life you lead: fairly satisfied,Luxembourg,2019,47.2,Luxembourg
+PS3351V,The life you lead: fairly satisfied,Riga,2019,61.1,Latvia
+PS3351V,The life you lead: fairly satisfied,Valletta,2019,46.1,Malta
+PS3351V,The life you lead: fairly satisfied,Amsterdam,2019,39.7,Netherlands
+PS3351V,The life you lead: fairly satisfied,Oslo,2019,38.1,Norway
+PS3351V,The life you lead: fairly satisfied,Warsaw,2019,54.5,Poland
+PS3351V,The life you lead: fairly satisfied,Lisbon,2019,57.5,Portugal
+PS3351V,The life you lead: fairly satisfied,Bucharest,2019,56.4,Romania
+PS3351V,The life you lead: fairly satisfied,Stockholm,2019,38.1,Sweden
+PS3351V,The life you lead: fairly satisfied,Ljubljana,2019,47.5,Slovenia
+PS3351V,The life you lead: fairly satisfied,Bratislava,2019,54.1,Slovakia
+PS3351V,The life you lead: fairly satisfied,Ankara,2019,40.0,Türkiye
+PS3352V,The life you lead: not very satisfied,Vienna,2019,7.3,Austria
+PS3352V,The life you lead: not very satisfied,Brussels,2019,9.3,Belgium
+PS3352V,The life you lead: not very satisfied,Sofia,2019,15.9,Bulgaria
+PS3352V,The life you lead: not very satisfied,Nicosia,2019,15.6,Cyprus
+PS3352V,The life you lead: not very satisfied,Prague,2019,9.0,Czechia
+PS3352V,The life you lead: not very satisfied,Berlin,2019,8.8,Germany
+PS3352V,The life you lead: not very satisfied,Copenhagen,2019,7.8,Denmark
+PS3352V,The life you lead: not very satisfied,Tallinn,2019,9.8,Estonia
+PS3352V,The life you lead: not very satisfied,Athens,2019,25.0,Greece
+PS3352V,The life you lead: not very satisfied,Madrid,2019,8.9,Spain
+PS3352V,The life you lead: not very satisfied,Paris,2019,11.2,France
+PS3352V,The life you lead: not very satisfied,Zagreb,2019,10.3,Croatia
+PS3352V,The life you lead: not very satisfied,Budapest,2019,20.8,Hungary
+PS3352V,The life you lead: not very satisfied,Dublin,2019,8.4,Ireland
+PS3352V,The life you lead: not very satisfied,Reykjavík,2019,3.0,Iceland
+PS3352V,The life you lead: not very satisfied,Rome,2019,13.8,Italy
+PS3352V,The life you lead: not very satisfied,Vilnius,2019,10.9,Lithuania
+PS3352V,The life you lead: not very satisfied,Luxembourg,2019,5.4,Luxembourg
+PS3352V,The life you lead: not very satisfied,Riga,2019,17.1,Latvia
+PS3352V,The life you lead: not very satisfied,Valletta,2019,10.5,Malta
+PS3352V,The life you lead: not very satisfied,Amsterdam,2019,4.8,Netherlands
+PS3352V,The life you lead: not very satisfied,Oslo,2019,7.6,Norway
+PS3352V,The life you lead: not very satisfied,Warsaw,2019,12.1,Poland
+PS3352V,The life you lead: not very satisfied,Lisbon,2019,16.2,Portugal
+PS3352V,The life you lead: not very satisfied,Bucharest,2019,18.9,Romania
+PS3352V,The life you lead: not very satisfied,Stockholm,2019,9.1,Sweden
+PS3352V,The life you lead: not very satisfied,Ljubljana,2019,7.7,Slovenia
+PS3352V,The life you lead: not very satisfied,Bratislava,2019,10.0,Slovakia
+PS3352V,The life you lead: not very satisfied,Ankara,2019,13.7,Türkiye
+PS3353V,The life you lead: not at all satisfied,Vienna,2019,1.1,Austria
+PS3353V,The life you lead: not at all satisfied,Brussels,2019,5.2,Belgium
+PS3353V,The life you lead: not at all satisfied,Sofia,2019,5.0,Bulgaria
+PS3353V,The life you lead: not at all satisfied,Nicosia,2019,4.5,Cyprus
+PS3353V,The life you lead: not at all satisfied,Prague,2019,3.0,Czechia
+PS3353V,The life you lead: not at all satisfied,Berlin,2019,1.1,Germany
+PS3353V,The life you lead: not at all satisfied,Copenhagen,2019,1.2,Denmark
+PS3353V,The life you lead: not at all satisfied,Tallinn,2019,3.9,Estonia
+PS3353V,The life you lead: not at all satisfied,Athens,2019,12.6,Greece
+PS3353V,The life you lead: not at all satisfied,Madrid,2019,5.8,Spain
+PS3353V,The life you lead: not at all satisfied,Paris,2019,3.0,France
+PS3353V,The life you lead: not at all satisfied,Zagreb,2019,3.1,Croatia
+PS3353V,The life you lead: not at all satisfied,Budapest,2019,5.6,Hungary
+PS3353V,The life you lead: not at all satisfied,Dublin,2019,2.0,Ireland
+PS3353V,The life you lead: not at all satisfied,Reykjavík,2019,1.1,Iceland
+PS3353V,The life you lead: not at all satisfied,Rome,2019,3.5,Italy
+PS3353V,The life you lead: not at all satisfied,Vilnius,2019,1.5,Lithuania
+PS3353V,The life you lead: not at all satisfied,Luxembourg,2019,3.3,Luxembourg
+PS3353V,The life you lead: not at all satisfied,Riga,2019,4.0,Latvia
+PS3353V,The life you lead: not at all satisfied,Valletta,2019,2.9,Malta
+PS3353V,The life you lead: not at all satisfied,Amsterdam,2019,2.7,Netherlands
+PS3353V,The life you lead: not at all satisfied,Oslo,2019,0.9,Norway
+PS3353V,The life you lead: not at all satisfied,Warsaw,2019,0.6,Poland
+PS3353V,The life you lead: not at all satisfied,Lisbon,2019,4.4,Portugal
+PS3353V,The life you lead: not at all satisfied,Bucharest,2019,3.6,Romania
+PS3353V,The life you lead: not at all satisfied,Stockholm,2019,2.5,Sweden
+PS3353V,The life you lead: not at all satisfied,Ljubljana,2019,2.6,Slovenia
+PS3353V,The life you lead: not at all satisfied,Bratislava,2019,2.0,Slovakia
+PS3353V,The life you lead: not at all satisfied,Ankara,2019,11.0,Türkiye
+PS3354V,The life you lead: don't know / no answer,Vienna,2019,0.5,Austria
+PS3354V,The life you lead: don't know / no answer,Brussels,2019,0.4,Belgium
+PS3354V,The life you lead: don't know / no answer,Sofia,2019,0.8,Bulgaria
+PS3354V,The life you lead: don't know / no answer,Nicosia,2019,0.8,Cyprus
+PS3354V,The life you lead: don't know / no answer,Prague,2019,0.3,Czechia
+PS3354V,The life you lead: don't know / no answer,Berlin,2019,0.4,Germany
+PS3354V,The life you lead: don't know / no answer,Copenhagen,2019,1.8,Denmark
+PS3354V,The life you lead: don't know / no answer,Tallinn,2019,2.0,Estonia
+PS3354V,The life you lead: don't know / no answer,Athens,2019,1.8,Greece
+PS3354V,The life you lead: don't know / no answer,Madrid,2019,1.4,Spain
+PS3354V,The life you lead: don't know / no answer,Paris,2019,0.8,France
+PS3354V,The life you lead: don't know / no answer,Zagreb,2019,0.7,Croatia
+PS3354V,The life you lead: don't know / no answer,Budapest,2019,1.4,Hungary
+PS3354V,The life you lead: don't know / no answer,Dublin,2019,1.1,Ireland
+PS3354V,The life you lead: don't know / no answer,Reykjavík,2019,0.5,Iceland
+PS3354V,The life you lead: don't know / no answer,Rome,2019,1.2,Italy
+PS3354V,The life you lead: don't know / no answer,Vilnius,2019,0.5,Lithuania
+PS3354V,The life you lead: don't know / no answer,Luxembourg,2019,0.3,Luxembourg
+PS3354V,The life you lead: don't know / no answer,Riga,2019,1.3,Latvia
+PS3354V,The life you lead: don't know / no answer,Valletta,2019,1.1,Malta
+PS3354V,The life you lead: don't know / no answer,Amsterdam,2019,0.2,Netherlands
+PS3354V,The life you lead: don't know / no answer,Oslo,2019,0.8,Norway
+PS3354V,The life you lead: don't know / no answer,Warsaw,2019,0.8,Poland
+PS3354V,The life you lead: don't know / no answer,Lisbon,2019,1.3,Portugal
+PS3354V,The life you lead: don't know / no answer,Bucharest,2019,3.4,Romania
+PS3354V,The life you lead: don't know / no answer,Stockholm,2019,0.2,Sweden
+PS3354V,The life you lead: don't know / no answer,Ljubljana,2019,0.1,Slovenia
+PS3354V,The life you lead: don't know / no answer,Bratislava,2019,0.6,Slovakia
+PS3354V,The life you lead: don't know / no answer,Ankara,2019,1.8,Türkiye
+PS3360V,I'm satisfied to live in this city: strongly agree,Vienna,2019,73.9,Austria
+PS3360V,I'm satisfied to live in this city: strongly agree,Brussels,2019,37.7,Belgium
+PS3360V,I'm satisfied to live in this city: strongly agree,Sofia,2019,34.2,Bulgaria
+PS3360V,I'm satisfied to live in this city: strongly agree,Nicosia,2019,38.7,Cyprus
+PS3360V,I'm satisfied to live in this city: strongly agree,Prague,2019,40.3,Czechia
+PS3360V,I'm satisfied to live in this city: strongly agree,Berlin,2019,55.8,Germany
+PS3360V,I'm satisfied to live in this city: strongly agree,Copenhagen,2019,77.8,Denmark
+PS3360V,I'm satisfied to live in this city: strongly agree,Tallinn,2019,54.9,Estonia
+PS3360V,I'm satisfied to live in this city: strongly agree,Athens,2019,15.0,Greece
+PS3360V,I'm satisfied to live in this city: strongly agree,Madrid,2019,40.8,Spain
+PS3360V,I'm satisfied to live in this city: strongly agree,Paris,2019,40.0,France
+PS3360V,I'm satisfied to live in this city: strongly agree,Zagreb,2019,60.5,Croatia
+PS3360V,I'm satisfied to live in this city: strongly agree,Budapest,2019,42.1,Hungary
+PS3360V,I'm satisfied to live in this city: strongly agree,Dublin,2019,67.3,Ireland
+PS3360V,I'm satisfied to live in this city: strongly agree,Reykjavík,2019,64.8,Iceland
+PS3360V,I'm satisfied to live in this city: strongly agree,Rome,2019,24.3,Italy
+PS3360V,I'm satisfied to live in this city: strongly agree,Vilnius,2019,61.9,Lithuania
+PS3360V,I'm satisfied to live in this city: strongly agree,Luxembourg,2019,69.9,Luxembourg
+PS3360V,I'm satisfied to live in this city: strongly agree,Riga,2019,30.0,Latvia
+PS3360V,I'm satisfied to live in this city: strongly agree,Valletta,2019,43.8,Malta
+PS3360V,I'm satisfied to live in this city: strongly agree,Amsterdam,2019,68.8,Netherlands
+PS3360V,I'm satisfied to live in this city: strongly agree,Oslo,2019,82.7,Norway
+PS3360V,I'm satisfied to live in this city: strongly agree,Warsaw,2019,46.9,Poland
+PS3360V,I'm satisfied to live in this city: strongly agree,Lisbon,2019,23.6,Portugal
+PS3360V,I'm satisfied to live in this city: strongly agree,Bucharest,2019,31.9,Romania
+PS3360V,I'm satisfied to live in this city: strongly agree,Stockholm,2019,81.4,Sweden
+PS3360V,I'm satisfied to live in this city: strongly agree,Ljubljana,2019,68.2,Slovenia
+PS3360V,I'm satisfied to live in this city: strongly agree,Bratislava,2019,44.8,Slovakia
+PS3360V,I'm satisfied to live in this city: strongly agree,Ankara,2019,63.8,Türkiye
+PS3361V,I'm satisfied to live in this city: somewhat agree,Vienna,2019,19.8,Austria
+PS3361V,I'm satisfied to live in this city: somewhat agree,Brussels,2019,49.7,Belgium
+PS3361V,I'm satisfied to live in this city: somewhat agree,Sofia,2019,48.2,Bulgaria
+PS3361V,I'm satisfied to live in this city: somewhat agree,Nicosia,2019,46.4,Cyprus
+PS3361V,I'm satisfied to live in this city: somewhat agree,Prague,2019,52.0,Czechia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Berlin,2019,34.7,Germany
+PS3361V,I'm satisfied to live in this city: somewhat agree,Copenhagen,2019,20.1,Denmark
+PS3361V,I'm satisfied to live in this city: somewhat agree,Tallinn,2019,36.7,Estonia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Athens,2019,49.1,Greece
+PS3361V,I'm satisfied to live in this city: somewhat agree,Madrid,2019,42.8,Spain
+PS3361V,I'm satisfied to live in this city: somewhat agree,Paris,2019,45.4,France
+PS3361V,I'm satisfied to live in this city: somewhat agree,Zagreb,2019,29.2,Croatia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Budapest,2019,43.9,Hungary
+PS3361V,I'm satisfied to live in this city: somewhat agree,Dublin,2019,26.4,Ireland
+PS3361V,I'm satisfied to live in this city: somewhat agree,Reykjavík,2019,28.7,Iceland
+PS3361V,I'm satisfied to live in this city: somewhat agree,Rome,2019,49.9,Italy
+PS3361V,I'm satisfied to live in this city: somewhat agree,Vilnius,2019,32.1,Lithuania
+PS3361V,I'm satisfied to live in this city: somewhat agree,Luxembourg,2019,24.5,Luxembourg
+PS3361V,I'm satisfied to live in this city: somewhat agree,Riga,2019,50.4,Latvia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Valletta,2019,36.8,Malta
+PS3361V,I'm satisfied to live in this city: somewhat agree,Amsterdam,2019,25.2,Netherlands
+PS3361V,I'm satisfied to live in this city: somewhat agree,Oslo,2019,14.4,Norway
+PS3361V,I'm satisfied to live in this city: somewhat agree,Warsaw,2019,45.3,Poland
+PS3361V,I'm satisfied to live in this city: somewhat agree,Lisbon,2019,63.9,Portugal
+PS3361V,I'm satisfied to live in this city: somewhat agree,Bucharest,2019,48.9,Romania
+PS3361V,I'm satisfied to live in this city: somewhat agree,Stockholm,2019,16.2,Sweden
+PS3361V,I'm satisfied to live in this city: somewhat agree,Ljubljana,2019,25.3,Slovenia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Bratislava,2019,46.7,Slovakia
+PS3361V,I'm satisfied to live in this city: somewhat agree,Ankara,2019,26.7,Türkiye
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Vienna,2019,5.4,Austria
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Brussels,2019,8.8,Belgium
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Sofia,2019,9.9,Bulgaria
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Nicosia,2019,10.2,Cyprus
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Prague,2019,5.8,Czechia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Berlin,2019,7.6,Germany
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Copenhagen,2019,1.8,Denmark
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Tallinn,2019,7.8,Estonia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Athens,2019,18.7,Greece
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Madrid,2019,12.8,Spain
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Paris,2019,10.6,France
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Zagreb,2019,6.7,Croatia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Budapest,2019,10.3,Hungary
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Dublin,2019,5.2,Ireland
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Reykjavík,2019,4.2,Iceland
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Rome,2019,17.0,Italy
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Vilnius,2019,4.0,Lithuania
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Luxembourg,2019,4.7,Luxembourg
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Riga,2019,13.6,Latvia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Valletta,2019,15.1,Malta
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Amsterdam,2019,4.7,Netherlands
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Oslo,2019,2.4,Norway
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Warsaw,2019,6.7,Poland
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Lisbon,2019,10.2,Portugal
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Bucharest,2019,14.8,Romania
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Stockholm,2019,2.2,Sweden
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Ljubljana,2019,5.1,Slovenia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Bratislava,2019,5.5,Slovakia
+PS3362V,I'm satisfied to live in this city: somewhat disagree,Ankara,2019,5.2,Türkiye
+PS3363V,I'm satisfied to live in this city: strongly disagree,Vienna,2019,0.4,Austria
+PS3363V,I'm satisfied to live in this city: strongly disagree,Brussels,2019,3.5,Belgium
+PS3363V,I'm satisfied to live in this city: strongly disagree,Sofia,2019,6.9,Bulgaria
+PS3363V,I'm satisfied to live in this city: strongly disagree,Nicosia,2019,4.5,Cyprus
+PS3363V,I'm satisfied to live in this city: strongly disagree,Prague,2019,1.6,Czechia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Berlin,2019,1.4,Germany
+PS3363V,I'm satisfied to live in this city: strongly disagree,Copenhagen,2019,0.0,Denmark
+PS3363V,I'm satisfied to live in this city: strongly disagree,Tallinn,2019,0.3,Estonia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Athens,2019,16.9,Greece
+PS3363V,I'm satisfied to live in this city: strongly disagree,Madrid,2019,2.9,Spain
+PS3363V,I'm satisfied to live in this city: strongly disagree,Paris,2019,3.8,France
+PS3363V,I'm satisfied to live in this city: strongly disagree,Zagreb,2019,3.0,Croatia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Budapest,2019,3.5,Hungary
+PS3363V,I'm satisfied to live in this city: strongly disagree,Dublin,2019,0.9,Ireland
+PS3363V,I'm satisfied to live in this city: strongly disagree,Reykjavík,2019,1.7,Iceland
+PS3363V,I'm satisfied to live in this city: strongly disagree,Rome,2019,8.1,Italy
+PS3363V,I'm satisfied to live in this city: strongly disagree,Vilnius,2019,1.6,Lithuania
+PS3363V,I'm satisfied to live in this city: strongly disagree,Luxembourg,2019,0.3,Luxembourg
+PS3363V,I'm satisfied to live in this city: strongly disagree,Riga,2019,5.7,Latvia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Valletta,2019,3.7,Malta
+PS3363V,I'm satisfied to live in this city: strongly disagree,Amsterdam,2019,0.7,Netherlands
+PS3363V,I'm satisfied to live in this city: strongly disagree,Oslo,2019,0.5,Norway
+PS3363V,I'm satisfied to live in this city: strongly disagree,Warsaw,2019,1.0,Poland
+PS3363V,I'm satisfied to live in this city: strongly disagree,Lisbon,2019,1.3,Portugal
+PS3363V,I'm satisfied to live in this city: strongly disagree,Bucharest,2019,3.4,Romania
+PS3363V,I'm satisfied to live in this city: strongly disagree,Stockholm,2019,0.2,Sweden
+PS3363V,I'm satisfied to live in this city: strongly disagree,Ljubljana,2019,1.4,Slovenia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Bratislava,2019,1.9,Slovakia
+PS3363V,I'm satisfied to live in this city: strongly disagree,Ankara,2019,4.2,Türkiye
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Vienna,2019,0.5,Austria
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Brussels,2019,0.3,Belgium
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Sofia,2019,0.8,Bulgaria
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Nicosia,2019,0.1,Cyprus
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Prague,2019,0.3,Czechia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Berlin,2019,0.5,Germany
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Copenhagen,2019,0.3,Denmark
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Tallinn,2019,0.4,Estonia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Athens,2019,0.3,Greece
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Madrid,2019,0.8,Spain
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Paris,2019,0.1,France
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Zagreb,2019,0.5,Croatia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Budapest,2019,0.2,Hungary
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Dublin,2019,0.2,Ireland
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Reykjavík,2019,0.7,Iceland
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Rome,2019,0.7,Italy
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Vilnius,2019,0.4,Lithuania
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Luxembourg,2019,0.6,Luxembourg
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Riga,2019,0.2,Latvia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Valletta,2019,0.6,Malta
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Amsterdam,2019,0.6,Netherlands
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Oslo,2019,0.0,Norway
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Warsaw,2019,0.1,Poland
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Lisbon,2019,1.1,Portugal
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Bucharest,2019,1.1,Romania
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Stockholm,2019,0.0,Sweden
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Ljubljana,2019,0.0,Slovenia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Bratislava,2019,1.1,Slovakia
+PS3364V,I'm satisfied to live in this city: don't know / no answer,Ankara,2019,0.0,Türkiye
