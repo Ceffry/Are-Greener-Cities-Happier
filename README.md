@@ -213,14 +213,12 @@ Greener Cities/
 │       ├── percentage-of-total-green-infrastructure.csv
 │       └── quality-of-life-and-city.csv
 ├── documentation/
-│   ├── Final Presentation/
+│   ├── Final_Presentation/
 │   │   └── Greener-Happier-Cities-Presentation.pptx
 │   ├── MVP/
-│   │   ├── Are greener cities happier.pptx
-│   │   └── Notes.txt
+│   │   └── Are_greener_cities_happier_MVP.pptx
 │   └── Pitch/
-│       ├── Are greener cities happier.pptx
-│       └── Pitch text.txt
+│       └── Are_greener_cities_happier_Pitch.pptx
 ├── notebooks/
 │   ├── analyzing-the-data.ipynb
 │   └── exploration-cleanup.ipynb
